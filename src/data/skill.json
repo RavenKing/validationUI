@@ -1,0 +1,5602 @@
+[
+  {
+    "value": "Java",
+    "group": 0
+  },
+  {
+    "value": "HTML5",
+    "group": 0
+  },
+  {
+    "value": "iOS",
+    "group": 0
+  },
+  {
+    "value": "C",
+    "group": 0
+  },
+  {
+    "value": "Android",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA Cloud Platform (HCP)",
+    "group": 0
+  },
+  {
+    "value": "Microsoft PowerPoint",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Outlook",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Excel",
+    "group": 0
+  },
+  {
+    "value": "Web development",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Office",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Word",
+    "group": 0
+  },
+  {
+    "value": "Apache Hadoop",
+    "group": 0
+  },
+  {
+    "value": "Machine learning",
+    "group": 0
+  },
+  {
+    "value": "Apache Spark",
+    "group": 0
+  },
+  {
+    "value": "Statistics",
+    "group": 0
+  },
+  {
+    "value": "Python",
+    "group": 0
+  },
+  {
+    "value": "Apache Hive",
+    "group": 0
+  },
+  {
+    "value": "Border Gateway Protocol (BGP)",
+    "group": 0
+  },
+  {
+    "value": "Internet Protocol (IP)",
+    "group": 0
+  },
+  {
+    "value": "SAP NetWeaver Business Warehouse (SAP BW)",
+    "group": 0
+  },
+  {
+    "value": "SAP ERP",
+    "group": 0
+  },
+  {
+    "value": "ABAP",
+    "group": 0
+  },
+  {
+    "value": "SAP SUM",
+    "group": 0
+  },
+  {
+    "value": "SAP S/4HANA",
+    "group": 0
+  },
+  {
+    "value": "Operating System (OS)",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA",
+    "group": 0
+  },
+  {
+    "value": "Database Management",
+    "group": 0
+  },
+  {
+    "value": "API (Application Programming Interface)",
+    "group": 0
+  },
+  {
+    "value": "DevOps",
+    "group": 0
+  },
+  {
+    "value": "Amazon Web Services (AWS)",
+    "group": 0
+  },
+  {
+    "value": "Web application",
+    "group": 0
+  },
+  {
+    "value": "Software architecture",
+    "group": 0
+  },
+  {
+    "value": "SAP Hybris",
+    "group": 0
+  },
+  {
+    "value": "LAMP",
+    "group": 0
+  },
+  {
+    "value": "ITIL (Information Technology Infrastructure Library)",
+    "group": 0
+  },
+  {
+    "value": "Puppet (software)",
+    "group": 0
+  },
+  {
+    "value": "Automation",
+    "group": 0
+  },
+  {
+    "value": "CISSP (Certified Information Systems Security Professional)",
+    "group": 0
+  },
+  {
+    "value": "Ansible",
+    "group": 0
+  },
+  {
+    "value": "Threat model",
+    "group": 0
+  },
+  {
+    "value": "Cloud computing",
+    "group": 0
+  },
+  {
+    "value": "Google Cloud Platform",
+    "group": 0
+  },
+  {
+    "value": "Risk analysis",
+    "group": 0
+  },
+  {
+    "value": "Apache Tomcat",
+    "group": 0
+  },
+  {
+    "value": "Web application firewall (WAF)",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Azure",
+    "group": 0
+  },
+  {
+    "value": "Ruby",
+    "group": 0
+  },
+  {
+    "value": "Red Hat Software",
+    "group": 0
+  },
+  {
+    "value": "AWK",
+    "group": 0
+  },
+  {
+    "value": "SQL",
+    "group": 0
+  },
+  {
+    "value": "Cross-cluster search",
+    "group": 0
+  },
+  {
+    "value": "Hybris Cloud",
+    "group": 0
+  },
+  {
+    "value": "Bash",
+    "group": 0
+  },
+  {
+    "value": "Apache Solr",
+    "group": 0
+  },
+  {
+    "value": "Debugging",
+    "group": 0
+  },
+  {
+    "value": "Debian",
+    "group": 0
+  },
+  {
+    "value": "RDBMS (Relational Database Management System)",
+    "group": 0
+  },
+  {
+    "value": "Perl",
+    "group": 0
+  },
+  {
+    "value": "Regular expression",
+    "group": 0
+  },
+  {
+    "value": "Dynatrace",
+    "group": 0
+  },
+  {
+    "value": "Shell script",
+    "group": 0
+  },
+  {
+    "value": "Scripting language",
+    "group": 0
+  },
+  {
+    "value": "sed",
+    "group": 0
+  },
+  {
+    "value": "Java Virtual Machine (JVM) Performance Tuning",
+    "group": 0
+  },
+  {
+    "value": "Java EE",
+    "group": 0
+  },
+  {
+    "value": "Objective-C",
+    "group": 0
+  },
+  {
+    "value": "Spring Framework",
+    "group": 0
+  },
+  {
+    "value": "C Sharp",
+    "group": 0
+  },
+  {
+    "value": "Java Web Application",
+    "group": 0
+  },
+  {
+    "value": "Software as a Service (SaaS)",
+    "group": 0
+  },
+  {
+    "value": "Kernel-based Virtual Machine (KVM)",
+    "group": 0
+  },
+  {
+    "value": "Virtualization",
+    "group": 0
+  },
+  {
+    "value": "Capital Expenditure (CapEx)",
+    "group": 0
+  },
+  {
+    "value": "Operating expense (OPEC)",
+    "group": 0
+  },
+  {
+    "value": "VMware",
+    "group": 0
+  },
+  {
+    "value": "Virtual Extensible LAN (VXLAN)",
+    "group": 0
+  },
+  {
+    "value": "Virtual routing and forwarding (VRF)",
+    "group": 0
+  },
+  {
+    "value": "Software-defined networking (SDN)",
+    "group": 0
+  },
+  {
+    "value": "Virtual LAN (VLAN)",
+    "group": 0
+  },
+  {
+    "value": "Load balancing",
+    "group": 0
+  },
+  {
+    "value": "OpenStack",
+    "group": 0
+  },
+  {
+    "value": "Scrum",
+    "group": 0
+  },
+  {
+    "value": "Web design",
+    "group": 0
+  },
+  {
+    "value": "SAPUI5",
+    "group": 0
+  },
+  {
+    "value": "Agile software development",
+    "group": 0
+  },
+  {
+    "value": "JavaScript",
+    "group": 0
+  },
+  {
+    "value": "Dynamic Host Configuration Protocol (DHCP)",
+    "group": 0
+  },
+  {
+    "value": "SAP HCM",
+    "group": 0
+  },
+  {
+    "value": "Linux",
+    "group": 0
+  },
+  {
+    "value": "NAS",
+    "group": 0
+  },
+  {
+    "value": "Pingdom",
+    "group": 0
+  },
+  {
+    "value": "Virtual IP address (VIP)",
+    "group": 0
+  },
+  {
+    "value": "Firewall",
+    "group": 0
+  },
+  {
+    "value": "Domain Name System (DNS)",
+    "group": 0
+  },
+  {
+    "value": "Zabbix",
+    "group": 0
+  },
+  {
+    "value": "SAP Business ByDesign",
+    "group": 0
+  },
+  {
+    "value": "Active Directory (AD)",
+    "group": 0
+  },
+  {
+    "value": "Splunk Technology",
+    "group": 0
+  },
+  {
+    "value": "Storage area network (SAN)",
+    "group": 0
+  },
+  {
+    "value": "Nagios",
+    "group": 0
+  },
+  {
+    "value": "SAP SuccessFactors",
+    "group": 0
+  },
+  {
+    "value": "SAP NetWeaver",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA XS",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Windows",
+    "group": 0
+  },
+  {
+    "value": "Unix",
+    "group": 0
+  },
+  {
+    "value": "Web service",
+    "group": 0
+  },
+  {
+    "value": "Front-end web development",
+    "group": 0
+  },
+  {
+    "value": "Kanban",
+    "group": 0
+  },
+  {
+    "value": "AngularJS",
+    "group": 0
+  },
+  {
+    "value": "Open Data Protocol (OData)",
+    "group": 0
+  },
+  {
+    "value": "Customer relationship management (CRM)",
+    "group": 0
+  },
+  {
+    "value": "SOAP",
+    "group": 0
+  },
+  {
+    "value": "CSS",
+    "group": 0
+  },
+  {
+    "value": "Representational state transfer (REST)",
+    "group": 0
+  },
+  {
+    "value": "SAP CRM",
+    "group": 0
+  },
+  {
+    "value": "SAP ASE",
+    "group": 0
+  },
+  {
+    "value": "B.Tech",
+    "group": 0
+  },
+  {
+    "value": "Scope",
+    "group": 0
+  },
+  {
+    "value": "End-to-End E2E Testing",
+    "group": 0
+  },
+  {
+    "value": "Decision-making",
+    "group": 0
+  },
+  {
+    "value": "C++",
+    "group": 0
+  },
+  {
+    "value": "XML",
+    "group": 0
+  },
+  {
+    "value": "Local area network (LAN)",
+    "group": 0
+  },
+  {
+    "value": "Hypervisor",
+    "group": 0
+  },
+  {
+    "value": "Check Point Software",
+    "group": 0
+  },
+  {
+    "value": "Arista Networks",
+    "group": 0
+  },
+  {
+    "value": "Wide area network (WAN)",
+    "group": 0
+  },
+  {
+    "value": "Cisco Systems",
+    "group": 0
+  },
+  {
+    "value": "Virtual private network (VPN)",
+    "group": 0
+  },
+  {
+    "value": "F5",
+    "group": 0
+  },
+  {
+    "value": "Wireless LAN (WLAN)",
+    "group": 0
+  },
+  {
+    "value": "Key Performance Indicator (KPI)",
+    "group": 0
+  },
+  {
+    "value": "DDI",
+    "group": 0
+  },
+  {
+    "value": "Chef automation",
+    "group": 0
+  },
+  {
+    "value": "F5 Networks load balancer",
+    "group": 0
+  },
+  {
+    "value": "SUSE Linux distributions",
+    "group": 0
+  },
+  {
+    "value": "Natural language processing (NLP)",
+    "group": 0
+  },
+  {
+    "value": "Architecture",
+    "group": 0
+  },
+  {
+    "value": "Computer vision",
+    "group": 0
+  },
+  {
+    "value": "Artificial intelligence (AI)",
+    "group": 0
+  },
+  {
+    "value": "Visual Design",
+    "group": 0
+  },
+  {
+    "value": "Data science",
+    "group": 0
+  },
+  {
+    "value": "GitHub",
+    "group": 0
+  },
+  {
+    "value": "Deep learning",
+    "group": 0
+  },
+  {
+    "value": "Microsoft SQL Server",
+    "group": 0
+  },
+  {
+    "value": "CentOS",
+    "group": 0
+  },
+  {
+    "value": "VMware vRealize",
+    "group": 0
+  },
+  {
+    "value": "Performance tuning",
+    "group": 0
+  },
+  {
+    "value": "Visual Basic",
+    "group": 0
+  },
+  {
+    "value": "PowerShell",
+    "group": 0
+  },
+  {
+    "value": "User Interface (UI) Design",
+    "group": 0
+  },
+  {
+    "value": "User Experience (UX) Design",
+    "group": 0
+  },
+  {
+    "value": "SAP Cloud Platform",
+    "group": 0
+  },
+  {
+    "value": "Security Information and Event Management (SIEM)",
+    "group": 0
+  },
+  {
+    "value": "Chef (software)",
+    "group": 0
+  },
+  {
+    "value": "Cisco Unified Computing System (UCS)",
+    "group": 0
+  },
+  {
+    "value": "Amazon Virtual Private Cloud (VPC) ",
+    "group": 0
+  },
+  {
+    "value": "Internet service provider (ISP)",
+    "group": 0
+  },
+  {
+    "value": "Juniper Networks",
+    "group": 0
+  },
+  {
+    "value": "Multiprotocol Label Switching (MPLS)",
+    "group": 0
+  },
+  {
+    "value": "Cisco Certified Network Professional (CCNP)",
+    "group": 0
+  },
+  {
+    "value": "Open Shortest Path First (OSPF)",
+    "group": 0
+  },
+  {
+    "value": "Spectrum",
+    "group": 0
+  },
+  {
+    "value": "Cloud Security Certification (CCSP)",
+    "group": 0
+  },
+  {
+    "value": "SAP Business Suite",
+    "group": 0
+  },
+  {
+    "value": "MySQL",
+    "group": 0
+  },
+  {
+    "value": "Technical analysis",
+    "group": 0
+  },
+  {
+    "value": "Windows Server",
+    "group": 0
+  },
+  {
+    "value": "IBM AIX",
+    "group": 0
+  },
+  {
+    "value": "SAP BusinessObjects",
+    "group": 0
+  },
+  {
+    "value": "IBM Db2",
+    "group": 0
+  },
+  {
+    "value": "SAP SQL Anywhere",
+    "group": 0
+  },
+  {
+    "value": "Oracle",
+    "group": 0
+  },
+  {
+    "value": "Cloud Architecture",
+    "group": 0
+  },
+  {
+    "value": "VMware Certified Professional (VCP)",
+    "group": 0
+  },
+  {
+    "value": "Xen",
+    "group": 0
+  },
+  {
+    "value": "VMware vSphere",
+    "group": 0
+  },
+  {
+    "value": "Time management",
+    "group": 0
+  },
+  {
+    "value": "Project management",
+    "group": 0
+  },
+  {
+    "value": "SAP MaxDB",
+    "group": 0
+  },
+  {
+    "value": "Power BI",
+    "group": 0
+  },
+  {
+    "value": "T-SQL (Transact-SQL)",
+    "group": 0
+  },
+  {
+    "value": "SAP Jam",
+    "group": 0
+  },
+  {
+    "value": "MongoDB",
+    "group": 0
+  },
+  {
+    "value": "Database Administrator",
+    "group": 0
+  },
+  {
+    "value": "SAP IQ",
+    "group": 0
+  },
+  {
+    "value": "Concurrent Versions System (CVS)",
+    "group": 0
+  },
+  {
+    "value": "Salt",
+    "group": 0
+  },
+  {
+    "value": "Perforce",
+    "group": 0
+  },
+  {
+    "value": "SAP Ariba",
+    "group": 0
+  },
+  {
+    "value": "Apache Subversion (SVN)",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Access",
+    "group": 0
+  },
+  {
+    "value": "Computer multitasking",
+    "group": 0
+  },
+  {
+    "value": "Pacemaker",
+    "group": 0
+  },
+  {
+    "value": " EMC AutoStart",
+    "group": 0
+  },
+  {
+    "value": "Cluster Computing",
+    "group": 0
+  },
+  {
+    "value": "Analytical skill",
+    "group": 0
+  },
+  {
+    "value": "SharePoint",
+    "group": 0
+  },
+  {
+    "value": "SAP Hybris Cloud",
+    "group": 0
+  },
+  {
+    "value": "Data model",
+    "group": 0
+  },
+  {
+    "value": "Proof of concept (POC)",
+    "group": 0
+  },
+  {
+    "value": "Data processing",
+    "group": 0
+  },
+  {
+    "value": "Query",
+    "group": 0
+  },
+  {
+    "value": "Data modeling",
+    "group": 0
+  },
+  {
+    "value": "WildFly",
+    "group": 0
+  },
+  {
+    "value": "Software Security",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA analytics",
+    "group": 0
+  },
+  {
+    "value": "Application server",
+    "group": 0
+  },
+  {
+    "value": "IT service management",
+    "group": 0
+  },
+  {
+    "value": "Docker",
+    "group": 0
+  },
+  {
+    "value": "VBScript",
+    "group": 0
+  },
+  {
+    "value": "Hyper-V",
+    "group": 0
+  },
+  {
+    "value": "iSCSI",
+    "group": 0
+  },
+  {
+    "value": "XCD (XML Schema)",
+    "group": 0
+  },
+  {
+    "value": "Common Internet File System (CIFS)",
+    "group": 0
+  },
+  {
+    "value": "NetApp",
+    "group": 0
+  },
+  {
+    "value": "Hypertext Transfer Protocol (HTTP)",
+    "group": 0
+  },
+  {
+    "value": "Oracle WebLogic Server",
+    "group": 0
+  },
+  {
+    "value": "UDP (User Datagram Protocol)",
+    "group": 0
+  },
+  {
+    "value": "Kernel",
+    "group": 0
+  },
+  {
+    "value": "Oracle Certified Associate (OCA)",
+    "group": 0
+  },
+  {
+    "value": "IBM WebSphere",
+    "group": 0
+  },
+  {
+    "value": "GlassFish",
+    "group": 0
+  },
+  {
+    "value": "Nginx",
+    "group": 0
+  },
+  {
+    "value": "Simple Mail Transfer Protocol (SMTP)",
+    "group": 0
+  },
+  {
+    "value": "VLANs (Virtual LANs)",
+    "group": 0
+  },
+  {
+    "value": "SSL (Secure Sockets Layer)",
+    "group": 0
+  },
+  {
+    "value": "Project Management Professional (PMP)",
+    "group": 0
+  },
+  {
+    "value": "Internet Information Services (IIS)",
+    "group": 0
+  },
+  {
+    "value": "Solaris",
+    "group": 0
+  },
+  {
+    "value": "Version control",
+    "group": 0
+  },
+  {
+    "value": "Network File System (NFS)",
+    "group": 0
+  },
+  {
+    "value": "File system",
+    "group": 0
+  },
+  {
+    "value": "Red Hat Enterprise Linux",
+    "group": 0
+  },
+  {
+    "value": "Technical Leadership",
+    "group": 0
+  },
+  {
+    "value": "GNU",
+    "group": 0
+  },
+  {
+    "value": "Vulnerability management",
+    "group": 0
+  },
+  {
+    "value": "Payment Card Industry Data Security Standard (PCI DSS)",
+    "group": 0
+  },
+  {
+    "value": "Configuration management",
+    "group": 0
+  },
+  {
+    "value": "HIPAA Compliance",
+    "group": 0
+  },
+  {
+    "value": "Intrusion detection system (IDS)",
+    "group": 0
+  },
+  {
+    "value": "ISO/IEC",
+    "group": 0
+  },
+  {
+    "value": "Global Information Assurance Certification (GIAC)",
+    "group": 0
+  },
+  {
+    "value": "SOX",
+    "group": 0
+  },
+  {
+    "value": "Cloud-based Solution",
+    "group": 0
+  },
+  {
+    "value": "Antivirus Software",
+    "group": 0
+  },
+  {
+    "value": "Jira",
+    "group": 0
+  },
+  {
+    "value": "Apache HTTP Server",
+    "group": 0
+  },
+  {
+    "value": "MariaDB",
+    "group": 0
+  },
+  {
+    "value": "IMACD",
+    "group": 0
+  },
+  {
+    "value": "Security Assertion Markup Language (SAML)",
+    "group": 0
+  },
+  {
+    "value": "In-memory database",
+    "group": 0
+  },
+  {
+    "value": "Git",
+    "group": 0
+  },
+  {
+    "value": "NoSQL",
+    "group": 0
+  },
+  {
+    "value": "KPI",
+    "group": 0
+  },
+  {
+    "value": "PostgreSQL",
+    "group": 0
+  },
+  {
+    "value": "Apache Cassandra",
+    "group": 0
+  },
+  {
+    "value": "SAP Replication Server",
+    "group": 0
+  },
+  {
+    "value": "Test automation",
+    "group": 0
+  },
+  {
+    "value": "XPath",
+    "group": 0
+  },
+  {
+    "value": "SoapUI",
+    "group": 0
+  },
+  {
+    "value": "Eclipse",
+    "group": 0
+  },
+  {
+    "value": "Apache Maven",
+    "group": 0
+  },
+  {
+    "value": "PL/SQL",
+    "group": 0
+  },
+  {
+    "value": "Apache Struts",
+    "group": 0
+  },
+  {
+    "value": "Dynamic HTML (DHTML)",
+    "group": 0
+  },
+  {
+    "value": "Apache Flex",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Servlet",
+    "group": 0
+  },
+  {
+    "value": "HTML",
+    "group": 0
+  },
+  {
+    "value": "Oracle Database",
+    "group": 0
+  },
+  {
+    "value": "Apache Ant",
+    "group": 0
+  },
+  {
+    "value": "Backbone Router",
+    "group": 0
+  },
+  {
+    "value": "Data structure",
+    "group": 0
+  },
+  {
+    "value": "Software deployment",
+    "group": 0
+  },
+  {
+    "value": "Scalability",
+    "group": 0
+  },
+  {
+    "value": "Network switch",
+    "group": 0
+  },
+  {
+    "value": "Monitoring",
+    "group": 0
+  },
+  {
+    "value": "Internet Control Message Protocol (ICMP)",
+    "group": 0
+  },
+  {
+    "value": "Database design",
+    "group": 0
+  },
+  {
+    "value": "SAP BW",
+    "group": 0
+  },
+  {
+    "value": "Application development",
+    "group": 0
+  },
+  {
+    "value": "SAP BPC",
+    "group": 0
+  },
+  {
+    "value": "Performance Analysis",
+    "group": 0
+  },
+  {
+    "value": "PHP",
+    "group": 0
+  },
+  {
+    "value": "Adobe InDesign",
+    "group": 0
+  },
+  {
+    "value": "Adobe Illustrator",
+    "group": 0
+  },
+  {
+    "value": "Adobe After Effects",
+    "group": 0
+  },
+  {
+    "value": "Adobe Premiere Pro",
+    "group": 0
+  },
+  {
+    "value": "Adobe Photoshop",
+    "group": 0
+  },
+  {
+    "value": "SDO",
+    "group": 0
+  },
+  {
+    "value": "Ruby on Rails",
+    "group": 0
+  },
+  {
+    "value": "Test-driven development (TDD)",
+    "group": 0
+  },
+  {
+    "value": "Integration widget",
+    "group": 0
+  },
+  {
+    "value": "Authentication",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Server Pages (JSP)",
+    "group": 0
+  },
+  {
+    "value": "Lightweight Directory Access Protocol (LDAP)",
+    "group": 0
+  },
+  {
+    "value": "Java Database Connectivity (JDBC)",
+    "group": 0
+  },
+  {
+    "value": "Application Clustering",
+    "group": 0
+  },
+  {
+    "value": "Protocol",
+    "group": 0
+  },
+  {
+    "value": "Ubuntu",
+    "group": 0
+  },
+  {
+    "value": "Error analysis",
+    "group": 0
+  },
+  {
+    "value": "Quality assurance",
+    "group": 0
+  },
+  {
+    "value": ".NET",
+    "group": 0
+  },
+  {
+    "value": "Unified Modeling Language (UML)",
+    "group": 0
+  },
+  {
+    "value": "Jenkins",
+    "group": 0
+  },
+  {
+    "value": "Swift",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Server Faces (JSF)",
+    "group": 0
+  },
+  {
+    "value": "Object-oriented programming (OOP)",
+    "group": 0
+  },
+  {
+    "value": "Integration testing",
+    "group": 0
+  },
+  {
+    "value": "Scala",
+    "group": 0
+  },
+  {
+    "value": "Waterfall",
+    "group": 0
+  },
+  {
+    "value": "System Administrator",
+    "group": 0
+  },
+  {
+    "value": "Corporate performance management (CPM)",
+    "group": 0
+  },
+  {
+    "value": "Hypertext Transfer Protocol Secure (HTTPS)",
+    "group": 0
+  },
+  {
+    "value": "SSH File Transfer Protocol (SFTP)",
+    "group": 0
+  },
+  {
+    "value": "Spreadsheet",
+    "group": 0
+  },
+  {
+    "value": "Active Server Pages (ASP)",
+    "group": 0
+  },
+  {
+    "value": "ArcSight",
+    "group": 0
+  },
+  {
+    "value": "Snort",
+    "group": 0
+  },
+  {
+    "value": "Network architecture",
+    "group": 0
+  },
+  {
+    "value": "Data analysis",
+    "group": 0
+  },
+  {
+    "value": "Service-level agreement (SLA)",
+    "group": 0
+  },
+  {
+    "value": "Cloud Delivery Model",
+    "group": 0
+  },
+  {
+    "value": "Prototype",
+    "group": 0
+  },
+  {
+    "value": "Ajax",
+    "group": 0
+  },
+  {
+    "value": "RAC",
+    "group": 0
+  },
+  {
+    "value": "Linux Logical Volume Manager (LVM)",
+    "group": 0
+  },
+  {
+    "value": "Cisco UCS Manager (UCSM)",
+    "group": 0
+  },
+  {
+    "value": "SCSA",
+    "group": 0
+  },
+  {
+    "value": "System Security Services Daemon (SSSD)",
+    "group": 0
+  },
+  {
+    "value": "Network Time Protocol (NTP)",
+    "group": 0
+  },
+  {
+    "value": "SolarWinds",
+    "group": 0
+  },
+  {
+    "value": "Hewlett-Packard (HP)",
+    "group": 0
+  },
+  {
+    "value": "Red Hat Cluster Suite (RHCS)",
+    "group": 0
+  },
+  {
+    "value": "Group Policy Object (GPO)",
+    "group": 0
+  },
+  {
+    "value": "Patch Management",
+    "group": 0
+  },
+  {
+    "value": "Change management",
+    "group": 0
+  },
+  {
+    "value": "EMC PowerPath",
+    "group": 0
+  },
+  {
+    "value": "Wireless network",
+    "group": 0
+  },
+  {
+    "value": "Performance profiling",
+    "group": 0
+  },
+  {
+    "value": "JProfiler",
+    "group": 0
+  },
+  {
+    "value": "Cloud Storage",
+    "group": 0
+  },
+  {
+    "value": "Test Script",
+    "group": 0
+  },
+  {
+    "value": "Software design",
+    "group": 0
+  },
+  {
+    "value": "Design Specifications (DS)",
+    "group": 0
+  },
+  {
+    "value": "Object-oriented design",
+    "group": 0
+  },
+  {
+    "value": "Continuous integration (CI)",
+    "group": 0
+  },
+  {
+    "value": "Selenium",
+    "group": 0
+  },
+  {
+    "value": "Lean-Agile process",
+    "group": 0
+  },
+  {
+    "value": "Website wireframe",
+    "group": 0
+  },
+  {
+    "value": "IT infrastructure",
+    "group": 0
+  },
+  {
+    "value": "ServiceNow",
+    "group": 0
+  },
+  {
+    "value": "IPS firewall",
+    "group": 0
+  },
+  {
+    "value": "Web Application Architecture",
+    "group": 0
+  },
+  {
+    "value": "FedRAMP",
+    "group": 0
+  },
+  {
+    "value": "Internet Protocol Security (IPsec)",
+    "group": 0
+  },
+  {
+    "value": "Amazon S3",
+    "group": 0
+  },
+  {
+    "value": "discard",
+    "group": 0
+  },
+  {
+    "value": "Test plan",
+    "group": 0
+  },
+  {
+    "value": "Command-line interface (CLI)",
+    "group": 0
+  },
+  {
+    "value": "Build automation",
+    "group": 0
+  },
+  {
+    "value": "Amazon EC2",
+    "group": 0
+  },
+  {
+    "value": "Amazon Relational Database Service (Amazon RDS)",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA Enterprise Cloud (HEC)",
+    "group": 0
+  },
+  {
+    "value": "EMC NetWorker",
+    "group": 0
+  },
+  {
+    "value": "Quality management",
+    "group": 0
+  },
+  {
+    "value": "Code review",
+    "group": 0
+  },
+  {
+    "value": "macOS",
+    "group": 0
+  },
+  {
+    "value": "Linear algebra",
+    "group": 0
+  },
+  {
+    "value": "Skype",
+    "group": 0
+  },
+  {
+    "value": "MCA",
+    "group": 0
+  },
+  {
+    "value": "Release Management Process",
+    "group": 0
+  },
+  {
+    "value": "CI/CD tools",
+    "group": 0
+  },
+  {
+    "value": "Container",
+    "group": 0
+  },
+  {
+    "value": "IT integration",
+    "group": 0
+  },
+  {
+    "value": "Software Build Process",
+    "group": 0
+  },
+  {
+    "value": "Bamboo",
+    "group": 0
+  },
+  {
+    "value": "Data migration",
+    "group": 0
+  },
+  {
+    "value": "SAP Sales and Distribution (SD)",
+    "group": 0
+  },
+  {
+    "value": "SAP Test Data Migration Server (TDMS)",
+    "group": 0
+  },
+  {
+    "value": "OpenVMS",
+    "group": 0
+  },
+  {
+    "value": "JSON",
+    "group": 0
+  },
+  {
+    "value": "jQuery",
+    "group": 0
+  },
+  {
+    "value": "Backbone.js",
+    "group": 0
+  },
+  {
+    "value": "Problem resolution management",
+    "group": 0
+  },
+  {
+    "value": "Conceptual thinking",
+    "group": 0
+  },
+  {
+    "value": "Business reporting",
+    "group": 0
+  },
+  {
+    "value": "Computer Network Technology",
+    "group": 0
+  },
+  {
+    "value": "Cross-platform software",
+    "group": 0
+  },
+  {
+    "value": "Performance management",
+    "group": 0
+  },
+  {
+    "value": "macOS X",
+    "group": 0
+  },
+  {
+    "value": "Knowledge management",
+    "group": 0
+  },
+  {
+    "value": "R",
+    "group": 0
+  },
+  {
+    "value": "SAS",
+    "group": 0
+  },
+  {
+    "value": "Data management",
+    "group": 0
+  },
+  {
+    "value": "SPSS",
+    "group": 0
+  },
+  {
+    "value": "Client Server Computing",
+    "group": 0
+  },
+  {
+    "value": "Encryption",
+    "group": 0
+  },
+  {
+    "value": "Disaster recovery",
+    "group": 0
+  },
+  {
+    "value": "Ping Pong",
+    "group": 0
+  },
+  {
+    "value": "D3.js",
+    "group": 0
+  },
+  {
+    "value": "SAP Fiori",
+    "group": 0
+  },
+  {
+    "value": "SAP APM",
+    "group": 0
+  },
+  {
+    "value": "SUSE Linux Enterprise Server",
+    "group": 0
+  },
+  {
+    "value": "search",
+    "group": 0
+  },
+  {
+    "value": "Mean time to repair (MTTR)",
+    "group": 0
+  },
+  {
+    "value": "Apache Lucene",
+    "group": 0
+  },
+  {
+    "value": "Apache ActiveMQ",
+    "group": 0
+  },
+  {
+    "value": "Conflict resolution",
+    "group": 0
+  },
+  {
+    "value": "Devlab",
+    "group": 0
+  },
+  {
+    "value": "Secure Shell Protocol (SSH)",
+    "group": 0
+  },
+  {
+    "value": "View",
+    "group": 0
+  },
+  {
+    "value": "Customer focus",
+    "group": 0
+  },
+  {
+    "value": "Fault tolerance",
+    "group": 0
+  },
+  {
+    "value": "Database Programming",
+    "group": 0
+  },
+  {
+    "value": "Akamai",
+    "group": 0
+  },
+  {
+    "value": "Software design pattern",
+    "group": 0
+  },
+  {
+    "value": "Apache Cordova",
+    "group": 0
+  },
+  {
+    "value": "Responsive web design (RWD)",
+    "group": 0
+  },
+  {
+    "value": "Document Object Model (DOM)",
+    "group": 0
+  },
+  {
+    "value": "Azure DevOps Server",
+    "group": 0
+  },
+  {
+    "value": "Security Operations Center (SOC)",
+    "group": 0
+  },
+  {
+    "value": "Data Loss Prevention (DLP)",
+    "group": 0
+  },
+  {
+    "value": "Governance Risk Compliance (GRC)",
+    "group": 0
+  },
+  {
+    "value": "OWASP",
+    "group": 0
+  },
+  {
+    "value": "BSI",
+    "group": 0
+  },
+  {
+    "value": "COSO",
+    "group": 0
+  },
+  {
+    "value": "COBIT",
+    "group": 0
+  },
+  {
+    "value": "ITIL Framework",
+    "group": 0
+  },
+  {
+    "value": "Root cause analysis (RCA)",
+    "group": 0
+  },
+  {
+    "value": "Storage Technology",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Project",
+    "group": 0
+  },
+  {
+    "value": "EMC VNX",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Visio",
+    "group": 0
+  },
+  {
+    "value": "SSL-VPN",
+    "group": 0
+  },
+  {
+    "value": "Cisco ACI",
+    "group": 0
+  },
+  {
+    "value": "FortiGate",
+    "group": 0
+  },
+  {
+    "value": "VMware NSX",
+    "group": 0
+  },
+  {
+    "value": "Palo Alto Networks",
+    "group": 0
+  },
+  {
+    "value": "Confluence",
+    "group": 0
+  },
+  {
+    "value": "Software development kit (SDK)",
+    "group": 0
+  },
+  {
+    "value": "OpenText",
+    "group": 0
+  },
+  {
+    "value": "Web Technology",
+    "group": 0
+  },
+  {
+    "value": "Bladelogic",
+    "group": 0
+  },
+  {
+    "value": "Samba",
+    "group": 0
+  },
+  {
+    "value": "Sendmail",
+    "group": 0
+  },
+  {
+    "value": "Programming Logic",
+    "group": 0
+  },
+  {
+    "value": "Data warehouse",
+    "group": 0
+  },
+  {
+    "value": "Continual improvement process",
+    "group": 0
+  },
+  {
+    "value": "Problem management",
+    "group": 0
+  },
+  {
+    "value": "Assembly language",
+    "group": 0
+  },
+  {
+    "value": "Single sign-on",
+    "group": 0
+  },
+  {
+    "value": "The Open Group Architectural Framework (TOGAF)",
+    "group": 0
+  },
+  {
+    "value": "Data integration",
+    "group": 0
+  },
+  {
+    "value": "Open source",
+    "group": 0
+  },
+  {
+    "value": "Cloud Foundry",
+    "group": 0
+  },
+  {
+    "value": "Database Backup",
+    "group": 0
+  },
+  {
+    "value": "Multi-Tenant Architecture SaaS Application",
+    "group": 0
+  },
+  {
+    "value": "Infrastructure Automation",
+    "group": 0
+  },
+  {
+    "value": "Compliance",
+    "group": 0
+  },
+  {
+    "value": "Systems development life cycle (SDLC)",
+    "group": 0
+  },
+  {
+    "value": "Web server",
+    "group": 0
+  },
+  {
+    "value": "IMG",
+    "group": 0
+  },
+  {
+    "value": "Platform as a Service (PaaS)",
+    "group": 0
+  },
+  {
+    "value": "Relationship Building",
+    "group": 0
+  },
+  {
+    "value": "Predictive modelling",
+    "group": 0
+  },
+  {
+    "value": "ASP.NET",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Visual Studio",
+    "group": 0
+  },
+  {
+    "value": "Stored procedure",
+    "group": 0
+  },
+  {
+    "value": "SAP SPC",
+    "group": 0
+  },
+  {
+    "value": "RESTful API",
+    "group": 0
+  },
+  {
+    "value": "Unit testing",
+    "group": 0
+  },
+  {
+    "value": "IPv6",
+    "group": 0
+  },
+  {
+    "value": "ISIS",
+    "group": 0
+  },
+  {
+    "value": "Product information management (PIM)",
+    "group": 0
+  },
+  {
+    "value": "Axure RP",
+    "group": 0
+  },
+  {
+    "value": "Interaction Design",
+    "group": 0
+  },
+  {
+    "value": "YaaS (SAP Hybris as a Service)",
+    "group": 0
+  },
+  {
+    "value": "SAP BRFplus",
+    "group": 0
+  },
+  {
+    "value": "Container Linux CoreOS",
+    "group": 0
+  },
+  {
+    "value": "Docker Swarm",
+    "group": 0
+  },
+  {
+    "value": "SAP Fieldglass",
+    "group": 0
+  },
+  {
+    "value": "Container technology",
+    "group": 0
+  },
+  {
+    "value": "Kubernetes",
+    "group": 0
+  },
+  {
+    "value": "Cisco Networking",
+    "group": 0
+  },
+  {
+    "value": "Wireshark",
+    "group": 0
+  },
+  {
+    "value": "Nexus",
+    "group": 0
+  },
+  {
+    "value": "SANS",
+    "group": 0
+  },
+  {
+    "value": "Content management system (CMS)",
+    "group": 0
+  },
+  {
+    "value": "Query language",
+    "group": 0
+  },
+  {
+    "value": "Query optimization",
+    "group": 0
+  },
+  {
+    "value": "Business intelligence (BI)",
+    "group": 0
+  },
+  {
+    "value": "Cloud computing security",
+    "group": 0
+  },
+  {
+    "value": " McAfee ePolicy Orchestrator (ePO)",
+    "group": 0
+  },
+  {
+    "value": "SAP PI",
+    "group": 0
+  },
+  {
+    "value": "SAP Cloud for Customer (C4C)",
+    "group": 0
+  },
+  {
+    "value": "Micro Focus Unified Functional Testing (UFT)",
+    "group": 0
+  },
+  {
+    "value": "Micro Focus Quality Center",
+    "group": 0
+  },
+  {
+    "value": "Test management",
+    "group": 0
+  },
+  {
+    "value": "Apache HBase",
+    "group": 0
+  },
+  {
+    "value": "Sentiment analysis",
+    "group": 0
+  },
+  {
+    "value": "Apache Kafka",
+    "group": 0
+  },
+  {
+    "value": "Hadoop Distributed File System (HDFS)",
+    "group": 0
+  },
+  {
+    "value": "Classification",
+    "group": 0
+  },
+  {
+    "value": "Segmentation",
+    "group": 0
+  },
+  {
+    "value": "Apache Storm",
+    "group": 0
+  },
+  {
+    "value": "Systems analysis",
+    "group": 0
+  },
+  {
+    "value": "Business process",
+    "group": 0
+  },
+  {
+    "value": "SAP Lumira",
+    "group": 0
+  },
+  {
+    "value": "Continuous Learning",
+    "group": 0
+  },
+  {
+    "value": "Web intelligence",
+    "group": 0
+  },
+  {
+    "value": "Metadata management",
+    "group": 0
+  },
+  {
+    "value": "Virtual Router Redundancy Protocol (VRRP)",
+    "group": 0
+  },
+  {
+    "value": "Hot Standby Router Protocol (HSRP)",
+    "group": 0
+  },
+  {
+    "value": "Software quality assurance (SQA)",
+    "group": 0
+  },
+  {
+    "value": "Object\u2013relational mapping (ORM)",
+    "group": 0
+  },
+  {
+    "value": "Software performance testing",
+    "group": 0
+  },
+  {
+    "value": "Database Integration",
+    "group": 0
+  },
+  {
+    "value": "Rundeck",
+    "group": 0
+  },
+  {
+    "value": "Django",
+    "group": 0
+  },
+  {
+    "value": "Monsoon",
+    "group": 0
+  },
+  {
+    "value": "Matplotlib",
+    "group": 0
+  },
+  {
+    "value": "NumPy",
+    "group": 0
+  },
+  {
+    "value": "Proxy server",
+    "group": 0
+  },
+  {
+    "value": "Automation scripts",
+    "group": 0
+  },
+  {
+    "value": "UI Automation",
+    "group": 0
+  },
+  {
+    "value": "Cryptography",
+    "group": 0
+  },
+  {
+    "value": "Kerberos",
+    "group": 0
+  },
+  {
+    "value": "File Transfer Protocol (FTP)",
+    "group": 0
+  },
+  {
+    "value": "ELK Stack",
+    "group": 0
+  },
+  {
+    "value": "Continuous delivery (CD)",
+    "group": 0
+  },
+  {
+    "value": "IBM MQ",
+    "group": 0
+  },
+  {
+    "value": "SAP PO",
+    "group": 0
+  },
+  {
+    "value": "Calculation Views",
+    "group": 0
+  },
+  {
+    "value": "Comma-separated values (CSV)",
+    "group": 0
+  },
+  {
+    "value": "VMware ESXi",
+    "group": 0
+  },
+  {
+    "value": "Implementation",
+    "group": 0
+  },
+  {
+    "value": "Windows Server Update Services (WSUS)",
+    "group": 0
+  },
+  {
+    "value": "Migration",
+    "group": 0
+  },
+  {
+    "value": "SAP Data Services",
+    "group": 0
+  },
+  {
+    "value": "Business process management",
+    "group": 0
+  },
+  {
+    "value": "Arquillian",
+    "group": 0
+  },
+  {
+    "value": "Database Schema Design",
+    "group": 0
+  },
+  {
+    "value": "Extract, transform, load (ETL)",
+    "group": 0
+  },
+  {
+    "value": "Microservices",
+    "group": 0
+  },
+  {
+    "value": "npm",
+    "group": 0
+  },
+  {
+    "value": "NIST",
+    "group": 0
+  },
+  {
+    "value": "Certified Ethical Hacker (CEH)",
+    "group": 0
+  },
+  {
+    "value": "ISF (Information Security Forum)",
+    "group": 0
+  },
+  {
+    "value": "Organizational Skills",
+    "group": 0
+  },
+  {
+    "value": "Certified Information Privacy Professional (CIPP)",
+    "group": 0
+  },
+  {
+    "value": "Cloud Integration",
+    "group": 0
+  },
+  {
+    "value": "TestNG",
+    "group": 0
+  },
+  {
+    "value": "JUnit",
+    "group": 0
+  },
+  {
+    "value": "OSI model",
+    "group": 0
+  },
+  {
+    "value": "SAP Vora",
+    "group": 0
+  },
+  {
+    "value": "Web Dynpro",
+    "group": 0
+  },
+  {
+    "value": "SAP eCATT",
+    "group": 0
+  },
+  {
+    "value": "MATLAB",
+    "group": 0
+  },
+  {
+    "value": "SAP MaxAttention",
+    "group": 0
+  },
+  {
+    "value": "Test Execution",
+    "group": 0
+  },
+  {
+    "value": "System integration",
+    "group": 0
+  },
+  {
+    "value": "UI Testing",
+    "group": 0
+  },
+  {
+    "value": "Extreme programming",
+    "group": 0
+  },
+  {
+    "value": "Acceptance testing",
+    "group": 0
+  },
+  {
+    "value": "Apache JMeter",
+    "group": 0
+  },
+  {
+    "value": "Cloud Platforms",
+    "group": 0
+  },
+  {
+    "value": "NOC",
+    "group": 0
+  },
+  {
+    "value": "SAP XI",
+    "group": 0
+  },
+  {
+    "value": "ALE",
+    "group": 0
+  },
+  {
+    "value": "SRM",
+    "group": 0
+  },
+  {
+    "value": "Product Lifecycle Management (PLM)",
+    "group": 0
+  },
+  {
+    "value": "Capability Maturity Model Integration (CMMI)",
+    "group": 0
+  },
+  {
+    "value": "Router",
+    "group": 0
+  },
+  {
+    "value": "Federal Information Security Modernization Act (FISMA)",
+    "group": 0
+  },
+  {
+    "value": "Result Orientation",
+    "group": 0
+  },
+  {
+    "value": "Regression",
+    "group": 0
+  },
+  {
+    "value": "QA process",
+    "group": 0
+  },
+  {
+    "value": "MM",
+    "group": 0
+  },
+  {
+    "value": "SAP Concur",
+    "group": 0
+  },
+  {
+    "value": "Gateway",
+    "group": 0
+  },
+  {
+    "value": "Data security",
+    "group": 0
+  },
+  {
+    "value": "Data visualization",
+    "group": 0
+  },
+  {
+    "value": "Dimensional modeling",
+    "group": 0
+  },
+  {
+    "value": "Node.js",
+    "group": 0
+  },
+  {
+    "value": "Quantitative Problem-Solving Skills",
+    "group": 0
+  },
+  {
+    "value": "Algorithm",
+    "group": 0
+  },
+  {
+    "value": "Agile frameworks",
+    "group": 0
+  },
+  {
+    "value": "Co-innovation",
+    "group": 0
+  },
+  {
+    "value": "Cloud Platform",
+    "group": 0
+  },
+  {
+    "value": "Total cost of ownership (TCO)",
+    "group": 0
+  },
+  {
+    "value": "L3",
+    "group": 0
+  },
+  {
+    "value": "Psychoanalysis",
+    "group": 0
+  },
+  {
+    "value": "tcpdump",
+    "group": 0
+  },
+  {
+    "value": "SAP Hybris Billing",
+    "group": 0
+  },
+  {
+    "value": "Access method",
+    "group": 0
+  },
+  {
+    "value": "Synchronization",
+    "group": 0
+  },
+  {
+    "value": "Multithreading",
+    "group": 0
+  },
+  {
+    "value": "SMP",
+    "group": 0
+  },
+  {
+    "value": "Memory management",
+    "group": 0
+  },
+  {
+    "value": "Concurrency control",
+    "group": 0
+  },
+  {
+    "value": "Distributed Database Design",
+    "group": 0
+  },
+  {
+    "value": "Database Architecture",
+    "group": 0
+  },
+  {
+    "value": "Systems design",
+    "group": 0
+  },
+  {
+    "value": "Clustered file system",
+    "group": 0
+  },
+  {
+    "value": "Query Processing",
+    "group": 0
+  },
+  {
+    "value": "OS Driver",
+    "group": 0
+  },
+  {
+    "value": "SAP FI-CA",
+    "group": 0
+  },
+  {
+    "value": "SAP IBP",
+    "group": 0
+  },
+  {
+    "value": "SAP APO",
+    "group": 0
+  },
+  {
+    "value": "Solutions Oriented",
+    "group": 0
+  },
+  {
+    "value": "ModSecurity",
+    "group": 0
+  },
+  {
+    "value": "Video Editing",
+    "group": 0
+  },
+  {
+    "value": "Routing domain",
+    "group": 0
+  },
+  {
+    "value": "Switch",
+    "group": 0
+  },
+  {
+    "value": "Reverse proxy",
+    "group": 0
+  },
+  {
+    "value": "CA Spectrum",
+    "group": 0
+  },
+  {
+    "value": "Mathematical optimization",
+    "group": 0
+  },
+  {
+    "value": "SAP MM",
+    "group": 0
+  },
+  {
+    "value": "PeopleSoft",
+    "group": 0
+  },
+  {
+    "value": "SAP FI",
+    "group": 0
+  },
+  {
+    "value": "SAP Software Solutions",
+    "group": 0
+  },
+  {
+    "value": "Amazon CloudFront",
+    "group": 0
+  },
+  {
+    "value": "Design thinking",
+    "group": 0
+  },
+  {
+    "value": "Computer Programming",
+    "group": 0
+  },
+  {
+    "value": "SAP Leonardo",
+    "group": 0
+  },
+  {
+    "value": "LDM",
+    "group": 0
+  },
+  {
+    "value": "Project Management Institute",
+    "group": 0
+  },
+  {
+    "value": "Big data",
+    "group": 0
+  },
+  {
+    "value": "Amazon CloudWatch",
+    "group": 0
+  },
+  {
+    "value": "Predictive Analytics",
+    "group": 0
+  },
+  {
+    "value": "User management",
+    "group": 0
+  },
+  {
+    "value": "SAP LT",
+    "group": 0
+  },
+  {
+    "value": "Git Code Review",
+    "group": 0
+  },
+  {
+    "value": "Gerrit",
+    "group": 0
+  },
+  {
+    "value": "Raspberry Pi",
+    "group": 0
+  },
+  {
+    "value": "Sensor",
+    "group": 0
+  },
+  {
+    "value": "Sprint",
+    "group": 0
+  },
+  {
+    "value": "GNU Debugger",
+    "group": 0
+  },
+  {
+    "value": "SAP IDoc",
+    "group": 0
+  },
+  {
+    "value": "SAP Remote Function Call (RFC)",
+    "group": 0
+  },
+  {
+    "value": "Strategic thinking",
+    "group": 0
+  },
+  {
+    "value": "Mercurial",
+    "group": 0
+  },
+  {
+    "value": "Software development",
+    "group": 0
+  },
+  {
+    "value": "AWS CloudFormation",
+    "group": 0
+  },
+  {
+    "value": "InfluxDB",
+    "group": 0
+  },
+  {
+    "value": "Grafana",
+    "group": 0
+  },
+  {
+    "value": "SAP Application Interface Framework",
+    "group": 0
+  },
+  {
+    "value": "Web interface",
+    "group": 0
+  },
+  {
+    "value": "SAP Core Data Services (CDS)",
+    "group": 0
+  },
+  {
+    "value": "Identity and Access Management (IAM)",
+    "group": 0
+  },
+  {
+    "value": "Full Stack",
+    "group": 0
+  },
+  {
+    "value": "OAuth",
+    "group": 0
+  },
+  {
+    "value": "Application Configuration",
+    "group": 0
+  },
+  {
+    "value": "Bootstrapping",
+    "group": 0
+  },
+  {
+    "value": "AR-SA",
+    "group": 0
+  },
+  {
+    "value": "Data hub",
+    "group": 0
+  },
+  {
+    "value": "cp (Unix)",
+    "group": 0
+  },
+  {
+    "value": "Apache Web Server",
+    "group": 0
+  },
+  {
+    "value": "Logstash",
+    "group": 0
+  },
+  {
+    "value": "Elasticsearch",
+    "group": 0
+  },
+  {
+    "value": "Computer memory",
+    "group": 0
+  },
+  {
+    "value": "Software Development Methodologies",
+    "group": 0
+  },
+  {
+    "value": "Cloud computing stack",
+    "group": 0
+  },
+  {
+    "value": "Containerization",
+    "group": 0
+  },
+  {
+    "value": "OOD / OOP Principles",
+    "group": 0
+  },
+  {
+    "value": "IDE",
+    "group": 0
+  },
+  {
+    "value": "Ariba Commerce Cloud",
+    "group": 0
+  },
+  {
+    "value": "Spark ML",
+    "group": 0
+  },
+  {
+    "value": "Apache MXNet",
+    "group": 0
+  },
+  {
+    "value": "Statistical model",
+    "group": 0
+  },
+  {
+    "value": "TensorFlow",
+    "group": 0
+  },
+  {
+    "value": "Portal",
+    "group": 0
+  },
+  {
+    "value": "JavaScript Frameworks",
+    "group": 0
+  },
+  {
+    "value": "Message queue",
+    "group": 0
+  },
+  {
+    "value": "Apache TomEE",
+    "group": 0
+  },
+  {
+    "value": "RabbitMQ",
+    "group": 0
+  },
+  {
+    "value": "Apache ZooKeeper",
+    "group": 0
+  },
+  {
+    "value": "HAProxy",
+    "group": 0
+  },
+  {
+    "value": "Cache",
+    "group": 0
+  },
+  {
+    "value": "Requirements gathering",
+    "group": 0
+  },
+  {
+    "value": "Routing",
+    "group": 0
+  },
+  {
+    "value": "Acceleration",
+    "group": 0
+  },
+  {
+    "value": "Code Quality",
+    "group": 0
+  },
+  {
+    "value": "Release management",
+    "group": 0
+  },
+  {
+    "value": "Groovy",
+    "group": 0
+  },
+  {
+    "value": "Go",
+    "group": 0
+  },
+  {
+    "value": "Electronic data interchange (EDI)",
+    "group": 0
+  },
+  {
+    "value": "SAP DS (Data Services)",
+    "group": 0
+  },
+  {
+    "value": "Cloud Development",
+    "group": 0
+  },
+  {
+    "value": "Database administration",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA Modeling",
+    "group": 0
+  },
+  {
+    "value": "Web application design",
+    "group": 0
+  },
+  {
+    "value": "Solution design",
+    "group": 0
+  },
+  {
+    "value": "Virtual machine",
+    "group": 0
+  },
+  {
+    "value": "TypeScript",
+    "group": 0
+  },
+  {
+    "value": "Apache Hadoop YARN",
+    "group": 0
+  },
+  {
+    "value": "High availability",
+    "group": 0
+  },
+  {
+    "value": "Middleware",
+    "group": 0
+  },
+  {
+    "value": "Service-oriented architecture (SOA)",
+    "group": 0
+  },
+  {
+    "value": "Pair programming",
+    "group": 0
+  },
+  {
+    "value": "LXC (Linux Containers)",
+    "group": 0
+  },
+  {
+    "value": "vmware bash",
+    "group": 0
+  },
+  {
+    "value": "Akka.NET",
+    "group": 0
+  },
+  {
+    "value": "Unikernel",
+    "group": 0
+  },
+  {
+    "value": "Container Orchestration",
+    "group": 0
+  },
+  {
+    "value": "rkt",
+    "group": 0
+  },
+  {
+    "value": "Apache Mesos",
+    "group": 0
+  },
+  {
+    "value": "Software testability",
+    "group": 0
+  },
+  {
+    "value": "Apache Flink",
+    "group": 0
+  },
+  {
+    "value": "Validation",
+    "group": 0
+  },
+  {
+    "value": "Java Stack",
+    "group": 0
+  },
+  {
+    "value": "SAP Cloud Integration",
+    "group": 0
+  },
+  {
+    "value": "Cross Browser Testing",
+    "group": 0
+  },
+  {
+    "value": "Backup",
+    "group": 0
+  },
+  {
+    "value": "Routing protocol",
+    "group": 0
+  },
+  {
+    "value": "Low-level design (LLD)",
+    "group": 0
+  },
+  {
+    "value": "Network analysis (NA)",
+    "group": 0
+  },
+  {
+    "value": "High-level design (HLD)",
+    "group": 0
+  },
+  {
+    "value": "Garbage collection",
+    "group": 0
+  },
+  {
+    "value": "LoadRunner",
+    "group": 0
+  },
+  {
+    "value": "CPU",
+    "group": 0
+  },
+  {
+    "value": "virtual machine (VM)",
+    "group": 0
+  },
+  {
+    "value": "SOC 2",
+    "group": 0
+  },
+  {
+    "value": "Open Database Connectivity",
+    "group": 0
+  },
+  {
+    "value": "Distributed computing",
+    "group": 0
+  },
+  {
+    "value": "Conflict management",
+    "group": 0
+  },
+  {
+    "value": "Tracing",
+    "group": 0
+  },
+  {
+    "value": "Deployment automation",
+    "group": 0
+  },
+  {
+    "value": "Terraform",
+    "group": 0
+  },
+  {
+    "value": "Test Kitchen",
+    "group": 0
+  },
+  {
+    "value": "CA Automic Release Automation",
+    "group": 0
+  },
+  {
+    "value": "CI/CD Pipeline",
+    "group": 0
+  },
+  {
+    "value": "Chef InSpec",
+    "group": 0
+  },
+  {
+    "value": "VMware Workstation",
+    "group": 0
+  },
+  {
+    "value": "Apache Oozie",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA Predictive Analysis Library (PAL)",
+    "group": 0
+  },
+  {
+    "value": "Mining",
+    "group": 0
+  },
+  {
+    "value": "Data Pipeline",
+    "group": 0
+  },
+  {
+    "value": "Data dictionary",
+    "group": 0
+  },
+  {
+    "value": "cXML",
+    "group": 0
+  },
+  {
+    "value": "Hortonworks Hadoop",
+    "group": 0
+  },
+  {
+    "value": "Apache Tez",
+    "group": 0
+  },
+  {
+    "value": "MapReduce2",
+    "group": 0
+  },
+  {
+    "value": "Multi Database Container (MDC)",
+    "group": 0
+  },
+  {
+    "value": "Apache NiFi",
+    "group": 0
+  },
+  {
+    "value": "Multi-Datacenter",
+    "group": 0
+  },
+  {
+    "value": "MDC Hadoop",
+    "group": 0
+  },
+  {
+    "value": "Flask",
+    "group": 0
+  },
+  {
+    "value": "Web framework",
+    "group": 0
+  },
+  {
+    "value": "DPP",
+    "group": 0
+  },
+  {
+    "value": "Fortify Software",
+    "group": 0
+  },
+  {
+    "value": "Downloadable content (DLC)",
+    "group": 0
+  },
+  {
+    "value": "Burp Suite",
+    "group": 0
+  },
+  {
+    "value": "Offensive Security Certified Professional (OSCP)",
+    "group": 0
+  },
+  {
+    "value": "Information privacy",
+    "group": 0
+  },
+  {
+    "value": "Application security testing (AST)",
+    "group": 0
+  },
+  {
+    "value": "Penetration Testing",
+    "group": 0
+  },
+  {
+    "value": "Java Management Extensions (JMX)",
+    "group": 0
+  },
+  {
+    "value": "Kibana",
+    "group": 0
+  },
+  {
+    "value": "AppDynamics",
+    "group": 0
+  },
+  {
+    "value": "SAP DBS",
+    "group": 0
+  },
+  {
+    "value": "Custom development",
+    "group": 0
+  },
+  {
+    "value": "ACD",
+    "group": 0
+  },
+  {
+    "value": "Site reliability engineering (SRE)",
+    "group": 0
+  },
+  {
+    "value": "Java application servers",
+    "group": 0
+  },
+  {
+    "value": "SAP FPM",
+    "group": 0
+  },
+  {
+    "value": "Business Object Processing Framework (BOPF)",
+    "group": 0
+  },
+  {
+    "value": "Bitbucket",
+    "group": 0
+  },
+  {
+    "value": "Network packet",
+    "group": 0
+  },
+  {
+    "value": "Cross-site scripting (XSS)",
+    "group": 0
+  },
+  {
+    "value": "Emacs",
+    "group": 0
+  },
+  {
+    "value": "Code Profiling",
+    "group": 0
+  },
+  {
+    "value": "JRuby",
+    "group": 0
+  },
+  {
+    "value": "vi",
+    "group": 0
+  },
+  {
+    "value": "POP",
+    "group": 0
+  },
+  {
+    "value": "Cross-Site Request Forgery (CSRF)",
+    "group": 0
+  },
+  {
+    "value": "Packet analyzer",
+    "group": 0
+  },
+  {
+    "value": "Scripting Framework",
+    "group": 0
+  },
+  {
+    "value": "Reliability",
+    "group": 0
+  },
+  {
+    "value": "Java Performance Tuning",
+    "group": 0
+  },
+  {
+    "value": "Web Services Description Language (WSDL)",
+    "group": 0
+  },
+  {
+    "value": "XSLT (Extensible Stylesheet Language Transformations)",
+    "group": 0
+  },
+  {
+    "value": "Database Upgrade",
+    "group": 0
+  },
+  {
+    "value": "Information security",
+    "group": 0
+  },
+  {
+    "value": "Web Systems",
+    "group": 0
+  },
+  {
+    "value": "Relationship skills",
+    "group": 0
+  },
+  {
+    "value": "Server",
+    "group": 0
+  },
+  {
+    "value": "Computer Security",
+    "group": 0
+  },
+  {
+    "value": "Visual Basic for Applications (VBA)",
+    "group": 0
+  },
+  {
+    "value": "Data extraction",
+    "group": 0
+  },
+  {
+    "value": "Apache Pig",
+    "group": 0
+  },
+  {
+    "value": "Robotic process automation",
+    "group": 0
+  },
+  {
+    "value": "Business process automation (BPA)",
+    "group": 0
+  },
+  {
+    "value": "Public Key Infrastructure (PKI)",
+    "group": 0
+  },
+  {
+    "value": "Log Monitoring",
+    "group": 0
+  },
+  {
+    "value": "API management",
+    "group": 0
+  },
+  {
+    "value": "SAP BRIM",
+    "group": 0
+  },
+  {
+    "value": "IT service management (ITSM)",
+    "group": 0
+  },
+  {
+    "value": "Network planning and design",
+    "group": 0
+  },
+  {
+    "value": "Tableau Software",
+    "group": 0
+  },
+  {
+    "value": "Inversion of control (IoC)",
+    "group": 0
+  },
+  {
+    "value": "Hibernate",
+    "group": 0
+  },
+  {
+    "value": "Cookies",
+    "group": 0
+  },
+  {
+    "value": "Model View Controller (MVC)",
+    "group": 0
+  },
+  {
+    "value": "Object-oriented analysis and design (OOAD)",
+    "group": 0
+  },
+  {
+    "value": "Business Process Model and Notation (BPMN)",
+    "group": 0
+  },
+  {
+    "value": "Execution Plans",
+    "group": 0
+  },
+  {
+    "value": "Java EE Web Application",
+    "group": 0
+  },
+  {
+    "value": "Apache iBATIS",
+    "group": 0
+  },
+  {
+    "value": "Anti-pattern",
+    "group": 0
+  },
+  {
+    "value": "Multitenancy",
+    "group": 0
+  },
+  {
+    "value": "Web container",
+    "group": 0
+  },
+  {
+    "value": "Network security",
+    "group": 0
+  },
+  {
+    "value": "Cluster manager",
+    "group": 0
+  },
+  {
+    "value": "Cloud automation",
+    "group": 0
+  },
+  {
+    "value": "Vagrant",
+    "group": 0
+  },
+  {
+    "value": "SAP SLT",
+    "group": 0
+  },
+  {
+    "value": "Nmap",
+    "group": 0
+  },
+  {
+    "value": "Cloud Center of Excellence (CCoE)",
+    "group": 0
+  },
+  {
+    "value": "Application Lifecycle Management (ALM)",
+    "group": 0
+  },
+  {
+    "value": "Visual communication",
+    "group": 0
+  },
+  {
+    "value": "SAP Web IDE",
+    "group": 0
+  },
+  {
+    "value": "HW",
+    "group": 0
+  },
+  {
+    "value": "Data cleansing",
+    "group": 0
+  },
+  {
+    "value": "Vault",
+    "group": 0
+  },
+  {
+    "value": "Configure Price Quote (CPQ)",
+    "group": 0
+  },
+  {
+    "value": "Behavioral Driven Development (BDD)",
+    "group": 0
+  },
+  {
+    "value": "Acceptance Test Driven Development (ATDD)",
+    "group": 0
+  },
+  {
+    "value": "Cucumber",
+    "group": 0
+  },
+  {
+    "value": "GitLab",
+    "group": 0
+  },
+  {
+    "value": "yum (software)",
+    "group": 0
+  },
+  {
+    "value": "TAM",
+    "group": 0
+  },
+  {
+    "value": "Time series",
+    "group": 0
+  },
+  {
+    "value": "B2B Cloud",
+    "group": 0
+  },
+  {
+    "value": "UA",
+    "group": 0
+  },
+  {
+    "value": "Task management",
+    "group": 0
+  },
+  {
+    "value": "Mobile app",
+    "group": 0
+  },
+  {
+    "value": "SAP S/4HANA Finance",
+    "group": 0
+  },
+  {
+    "value": "Regression testing",
+    "group": 0
+  },
+  {
+    "value": "Black Duck",
+    "group": 0
+  },
+  {
+    "value": "WhiteSource",
+    "group": 0
+  },
+  {
+    "value": "Palamida",
+    "group": 0
+  },
+  {
+    "value": "SAP GTP",
+    "group": 0
+  },
+  {
+    "value": "SAP Quality Management (QM)",
+    "group": 0
+  },
+  {
+    "value": "SAP BADI",
+    "group": 0
+  },
+  {
+    "value": "SAP Report Programming",
+    "group": 0
+  },
+  {
+    "value": "SAP BAPI",
+    "group": 0
+  },
+  {
+    "value": "Authorization",
+    "group": 0
+  },
+  {
+    "value": "Hudson",
+    "group": 0
+  },
+  {
+    "value": "Quantitative Production Analysis",
+    "group": 0
+  },
+  {
+    "value": "Persistence",
+    "group": 0
+  },
+  {
+    "value": " Object model",
+    "group": 0
+  },
+  {
+    "value": "integrity testing",
+    "group": 0
+  },
+  {
+    "value": "Control system",
+    "group": 0
+  },
+  {
+    "value": "IPv4",
+    "group": 0
+  },
+  {
+    "value": "BIG-IP",
+    "group": 0
+  },
+  {
+    "value": "XSA",
+    "group": 0
+  },
+  {
+    "value": "Software framework",
+    "group": 0
+  },
+  {
+    "value": "Salesforce",
+    "group": 0
+  },
+  {
+    "value": "New Relic",
+    "group": 0
+  },
+  {
+    "value": "Maintenance Repair And Operations (MRO)",
+    "group": 0
+  },
+  {
+    "value": "Couchbase",
+    "group": 0
+  },
+  {
+    "value": "BIND",
+    "group": 0
+  },
+  {
+    "value": "General Parallel File System (GPFS)",
+    "group": 0
+  },
+  {
+    "value": "HA/DR (High Availability/Disaster Recovery)",
+    "group": 0
+  },
+  {
+    "value": "Network topology",
+    "group": 0
+  },
+  {
+    "value": "Amazon Simple Queue Service (SQS)",
+    "group": 0
+  },
+  {
+    "value": "Database replication",
+    "group": 0
+  },
+  {
+    "value": "Sketch",
+    "group": 0
+  },
+  {
+    "value": "Page layout",
+    "group": 0
+  },
+  {
+    "value": "Public cloud",
+    "group": 0
+  },
+  {
+    "value": "WebGL",
+    "group": 0
+  },
+  {
+    "value": "Nomad",
+    "group": 0
+  },
+  {
+    "value": "Messaging Protocols",
+    "group": 0
+  },
+  {
+    "value": "SAP Convergent Charging",
+    "group": 0
+  },
+  {
+    "value": "Darwin Information Typing Architecture (DITA)",
+    "group": 0
+  },
+  {
+    "value": "Markdown",
+    "group": 0
+  },
+  {
+    "value": "Information architecture",
+    "group": 0
+  },
+  {
+    "value": "Statistical Processing",
+    "group": 0
+  },
+  {
+    "value": "Dataflow architecture",
+    "group": 0
+  },
+  {
+    "value": "Image processing",
+    "group": 0
+  },
+  {
+    "value": "Amazon Kinesis",
+    "group": 0
+  },
+  {
+    "value": "React",
+    "group": 0
+  },
+  {
+    "value": "Cloud analytics",
+    "group": 0
+  },
+  {
+    "value": "Data acquisition",
+    "group": 0
+  },
+  {
+    "value": "MapReduce",
+    "group": 0
+  },
+  {
+    "value": "McAfee",
+    "group": 0
+  },
+  {
+    "value": "Human resource management (HRM)",
+    "group": 0
+  },
+  {
+    "value": "Financial Management",
+    "group": 0
+  },
+  {
+    "value": "Risk management",
+    "group": 0
+  },
+  {
+    "value": "NUnit",
+    "group": 0
+  },
+  {
+    "value": "Quality Assurance (QA)",
+    "group": 0
+  },
+  {
+    "value": "Knockout",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Enterprise Beans",
+    "group": 0
+  },
+  {
+    "value": "Data Protection",
+    "group": 0
+  },
+  {
+    "value": "Virtual reality (VR)",
+    "group": 0
+  },
+  {
+    "value": "CompTIA Security+ Certification",
+    "group": 0
+  },
+  {
+    "value": "RGB",
+    "group": 0
+  },
+  {
+    "value": "Theano",
+    "group": 0
+  },
+  {
+    "value": "Big Data Frameworks",
+    "group": 0
+  },
+  {
+    "value": "scikit-learn",
+    "group": 0
+  },
+  {
+    "value": "PyTorch",
+    "group": 0
+  },
+  {
+    "value": "Caffe",
+    "group": 0
+  },
+  {
+    "value": "Chatbot",
+    "group": 0
+  },
+  {
+    "value": "WordPress",
+    "group": 0
+  },
+  {
+    "value": "Firefox",
+    "group": 0
+  },
+  {
+    "value": "Web browsers",
+    "group": 0
+  },
+  {
+    "value": "Google Chrome",
+    "group": 0
+  },
+  {
+    "value": "Batch file",
+    "group": 0
+  },
+  {
+    "value": "Bug tracking system",
+    "group": 0
+  },
+  {
+    "value": "Packer",
+    "group": 0
+  },
+  {
+    "value": "Server Operating System (Server OS)",
+    "group": 0
+  },
+  {
+    "value": "Mesosphere",
+    "group": 0
+  },
+  {
+    "value": "SAP ECC",
+    "group": 0
+  },
+  {
+    "value": "SAP Data Hub",
+    "group": 0
+  },
+  {
+    "value": "SAP SDI",
+    "group": 0
+  },
+  {
+    "value": "Hortonworks",
+    "group": 0
+  },
+  {
+    "value": "Linux kernel",
+    "group": 0
+  },
+  {
+    "value": "Open Source Cloud Platform",
+    "group": 0
+  },
+  {
+    "value": "Memcached",
+    "group": 0
+  },
+  {
+    "value": "Spring Boot",
+    "group": 0
+  },
+  {
+    "value": "Apache CXF",
+    "group": 0
+  },
+  {
+    "value": "Spring MVC",
+    "group": 0
+  },
+  {
+    "value": "Context-sensitive help",
+    "group": 0
+  },
+  {
+    "value": "Storage Architecture",
+    "group": 0
+  },
+  {
+    "value": "Toolchain Optimization",
+    "group": 0
+  },
+  {
+    "value": "Cloud Orchestration",
+    "group": 0
+  },
+  {
+    "value": "Secure System Design",
+    "group": 0
+  },
+  {
+    "value": "Infrastructure as a Service (IaaS)",
+    "group": 0
+  },
+  {
+    "value": "Big O notation",
+    "group": 0
+  },
+  {
+    "value": "CloudOps",
+    "group": 0
+  },
+  {
+    "value": "Data-driven",
+    "group": 0
+  },
+  {
+    "value": "Artifactory",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA as a service (HaaS)",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Messaging (JMS)",
+    "group": 0
+  },
+  {
+    "value": "Jakarta Persistence (JPA)",
+    "group": 0
+  },
+  {
+    "value": "Prometheus",
+    "group": 0
+  },
+  {
+    "value": "CFEngine",
+    "group": 0
+  },
+  {
+    "value": "Protractor",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Silverlight",
+    "group": 0
+  },
+  {
+    "value": "Firebug",
+    "group": 0
+  },
+  {
+    "value": "Postman",
+    "group": 0
+  },
+  {
+    "value": "Vue.js",
+    "group": 0
+  },
+  {
+    "value": "Veritas Volume Manager (VxVM)",
+    "group": 0
+  },
+  {
+    "value": "ABAP-Managed Database Procedures (AMDP)",
+    "group": 0
+  },
+  {
+    "value": "Flowchart",
+    "group": 0
+  },
+  {
+    "value": "Lean software development",
+    "group": 0
+  },
+  {
+    "value": "InVision",
+    "group": 0
+  },
+  {
+    "value": "gulp.js",
+    "group": 0
+  },
+  {
+    "value": "Grunt",
+    "group": 0
+  },
+  {
+    "value": "Apache Flume",
+    "group": 0
+  },
+  {
+    "value": "DITA CMS",
+    "group": 0
+  },
+  {
+    "value": "Collaboration",
+    "group": 0
+  },
+  {
+    "value": "Amazon DynamoDB",
+    "group": 0
+  },
+  {
+    "value": "Security AppScan",
+    "group": 0
+  },
+  {
+    "value": "AV",
+    "group": 0
+  },
+  {
+    "value": "Gatling",
+    "group": 0
+  },
+  {
+    "value": "SAP FC",
+    "group": 0
+  },
+  {
+    "value": "SAP TREX",
+    "group": 0
+  },
+  {
+    "value": "Slack",
+    "group": 0
+  },
+  {
+    "value": "Lean manufacturing",
+    "group": 0
+  },
+  {
+    "value": "NEO",
+    "group": 0
+  },
+  {
+    "value": "SAP Analytics Cloud",
+    "group": 0
+  },
+  {
+    "value": "Swagger",
+    "group": 0
+  },
+  {
+    "value": "Usability testing",
+    "group": 0
+  },
+  {
+    "value": "Dynamic application security testing (DAST)",
+    "group": 0
+  },
+  {
+    "value": "OWASP Zed Attack Proxy (ZAP)",
+    "group": 0
+  },
+  {
+    "value": "SAP Cloud Connector",
+    "group": 0
+  },
+  {
+    "value": "Domain-driven design (DDD)",
+    "group": 0
+  },
+  {
+    "value": "Deep Learning (DL)",
+    "group": 0
+  },
+  {
+    "value": "UI Text",
+    "group": 0
+  },
+  {
+    "value": "IXIASOFT",
+    "group": 0
+  },
+  {
+    "value": "Customization",
+    "group": 0
+  },
+  {
+    "value": "Metadata modeling",
+    "group": 0
+  },
+  {
+    "value": "Frontend Frameworks",
+    "group": 0
+  },
+  {
+    "value": "SAP CPI",
+    "group": 0
+  },
+  {
+    "value": "C4",
+    "group": 0
+  },
+  {
+    "value": "Network management",
+    "group": 0
+  },
+  {
+    "value": "HBA",
+    "group": 0
+  },
+  {
+    "value": "Backend Development",
+    "group": 0
+  },
+  {
+    "value": "SCSI",
+    "group": 0
+  },
+  {
+    "value": "Mockito",
+    "group": 0
+  },
+  {
+    "value": "QUnit",
+    "group": 0
+  },
+  {
+    "value": "AP",
+    "group": 0
+  },
+  {
+    "value": "Tenacity",
+    "group": 0
+  },
+  {
+    "value": "Database Development",
+    "group": 0
+  },
+  {
+    "value": "Data governance",
+    "group": 0
+  },
+  {
+    "value": "Vulnerability Testing",
+    "group": 0
+  },
+  {
+    "value": "Mathematical model",
+    "group": 0
+  },
+  {
+    "value": "Jetty",
+    "group": 0
+  },
+  {
+    "value": "Silk",
+    "group": 0
+  },
+  {
+    "value": "Keras",
+    "group": 0
+  },
+  {
+    "value": "Content delivery network (CDN)",
+    "group": 0
+  },
+  {
+    "value": "React Native",
+    "group": 0
+  },
+  {
+    "value": "Customer experience (CX)",
+    "group": 0
+  },
+  {
+    "value": "Spring Reactor",
+    "group": 0
+  },
+  {
+    "value": "User Flow",
+    "group": 0
+  },
+  {
+    "value": "UIs",
+    "group": 0
+  },
+  {
+    "value": "SAP NetWeaver Process Integration (SAP PI)",
+    "group": 0
+  },
+  {
+    "value": "AS2 (Applicability Statement 2) ",
+    "group": 0
+  },
+  {
+    "value": "SAP Finance LOB",
+    "group": 0
+  },
+  {
+    "value": "Internet Explorer",
+    "group": 0
+  },
+  {
+    "value": "SAP ESR",
+    "group": 0
+  },
+  {
+    "value": "SAP Function Modules",
+    "group": 0
+  },
+  {
+    "value": "JOOQ Object Oriented Querying",
+    "group": 0
+  },
+  {
+    "value": "UI Technologies",
+    "group": 0
+  },
+  {
+    "value": "System integration testing (SIT)",
+    "group": 0
+  },
+  {
+    "value": "Knife",
+    "group": 0
+  },
+  {
+    "value": "Alibaba Cloud",
+    "group": 0
+  },
+  {
+    "value": "CDN (Content Delivery Network)",
+    "group": 0
+  },
+  {
+    "value": "server-side JavaScript (XSJS)",
+    "group": 0
+  },
+  {
+    "value": "GIAC Certified Incident Handler (GCIH)",
+    "group": 0
+  },
+  {
+    "value": "Project management office (PMO)",
+    "group": 0
+  },
+  {
+    "value": "Delivery Methodology",
+    "group": 0
+  },
+  {
+    "value": "SAP Gigya",
+    "group": 0
+  },
+  {
+    "value": "SAP CallidusCloud",
+    "group": 0
+  },
+  {
+    "value": "Coresystems",
+    "group": 0
+  },
+  {
+    "value": "SAP C/4HANA",
+    "group": 0
+  },
+  {
+    "value": "Online analytical processing (OLAP)",
+    "group": 0
+  },
+  {
+    "value": "Redux",
+    "group": 0
+  },
+  {
+    "value": "Code refactoring",
+    "group": 0
+  },
+  {
+    "value": "Incident management",
+    "group": 0
+  },
+  {
+    "value": "Gradle",
+    "group": 0
+  },
+  {
+    "value": "SAP BusinessObjects (BO)",
+    "group": 0
+  },
+  {
+    "value": "Browser user interface",
+    "group": 0
+  },
+  {
+    "value": "Bot",
+    "group": 0
+  },
+  {
+    "value": "Android Studio",
+    "group": 0
+  },
+  {
+    "value": "Project delivery method",
+    "group": 0
+  },
+  {
+    "value": "ABAP Unit Test",
+    "group": 0
+  },
+  {
+    "value": "Computer literacy",
+    "group": 0
+  },
+  {
+    "value": "Functional programming",
+    "group": 0
+  },
+  {
+    "value": "SQL Server Integration Services (SSIS)",
+    "group": 0
+  },
+  {
+    "value": "Linux distribution",
+    "group": 0
+  },
+  {
+    "value": "Consul",
+    "group": 0
+  },
+  {
+    "value": "Internet Download Manager (IDM)",
+    "group": 0
+  },
+  {
+    "value": "Mobile device management (MDM)",
+    "group": 0
+  },
+  {
+    "value": "Cloud ERP",
+    "group": 0
+  },
+  {
+    "value": "Functional testing",
+    "group": 0
+  },
+  {
+    "value": "SonarQube",
+    "group": 0
+  },
+  {
+    "value": "JavaScript ES6",
+    "group": 0
+  },
+  {
+    "value": "Multicloud",
+    "group": 0
+  },
+  {
+    "value": "Hyperscalers",
+    "group": 0
+  },
+  {
+    "value": "User guide",
+    "group": 0
+  },
+  {
+    "value": "Column-oriented DBMS",
+    "group": 0
+  },
+  {
+    "value": "Continuous Deployment (CD)",
+    "group": 0
+  },
+  {
+    "value": "IntelliJ IDEA",
+    "group": 0
+  },
+  {
+    "value": "OpenTSDB",
+    "group": 0
+  },
+  {
+    "value": "Google Compute Engine (GCE)",
+    "group": 0
+  },
+  {
+    "value": "Amazon EKS",
+    "group": 0
+  },
+  {
+    "value": "Azure Kubernetes Service (AKS)",
+    "group": 0
+  },
+  {
+    "value": "Crucible",
+    "group": 0
+  },
+  {
+    "value": "Spinnaker",
+    "group": 0
+  },
+  {
+    "value": "Quantitative easing (QE)",
+    "group": 0
+  },
+  {
+    "value": "Database Testing",
+    "group": 0
+  },
+  {
+    "value": "Smartsheet",
+    "group": 0
+  },
+  {
+    "value": "Flinto",
+    "group": 0
+  },
+  {
+    "value": "Visual Design Specification",
+    "group": 0
+  },
+  {
+    "value": "SciPy",
+    "group": 0
+  },
+  {
+    "value": "pandas",
+    "group": 0
+  },
+  {
+    "value": "TeamCity",
+    "group": 0
+  },
+  {
+    "value": "JSP Standard Tag Library (JSTL)",
+    "group": 0
+  },
+  {
+    "value": "Cloud Environment",
+    "group": 0
+  },
+  {
+    "value": "Dashboard",
+    "group": 0
+  },
+  {
+    "value": "High-performance computing (HPC)",
+    "group": 0
+  },
+  {
+    "value": "Managed services",
+    "group": 0
+  },
+  {
+    "value": "OLTP (Online Transactional Processing)",
+    "group": 0
+  },
+  {
+    "value": "Reactive programming",
+    "group": 0
+  },
+  {
+    "value": "Web Controls",
+    "group": 0
+  },
+  {
+    "value": "Safari",
+    "group": 0
+  },
+  {
+    "value": "Single-page application (SPA)",
+    "group": 0
+  },
+  {
+    "value": "OPA5",
+    "group": 0
+  },
+  {
+    "value": "OSGi",
+    "group": 0
+  },
+  {
+    "value": "Issue tracking system",
+    "group": 0
+  },
+  {
+    "value": "Mobile app development",
+    "group": 0
+  },
+  {
+    "value": "Penetration test",
+    "group": 0
+  },
+  {
+    "value": "Nessus",
+    "group": 0
+  },
+  {
+    "value": "Accessibility",
+    "group": 0
+  },
+  {
+    "value": " Certified ScrumMaster (CSM)",
+    "group": 0
+  },
+  {
+    "value": "Problem Analysis",
+    "group": 0
+  },
+  {
+    "value": "Server Message Block (SMB)",
+    "group": 0
+  },
+  {
+    "value": "UIkit",
+    "group": 0
+  },
+  {
+    "value": "Data quality",
+    "group": 0
+  },
+  {
+    "value": "Concourse CI",
+    "group": 0
+  },
+  {
+    "value": "API Driven Development (ADD)",
+    "group": 0
+  },
+  {
+    "value": "Artificial neural network",
+    "group": 0
+  },
+  {
+    "value": "Travis CI",
+    "group": 0
+  },
+  {
+    "value": "Cloud management",
+    "group": 0
+  },
+  {
+    "value": "Text mining",
+    "group": 0
+  },
+  {
+    "value": "LinkedIn",
+    "group": 0
+  },
+  {
+    "value": "Web 2.0",
+    "group": 0
+  },
+  {
+    "value": "Adobe Creative Suite",
+    "group": 0
+  },
+  {
+    "value": "Complex event processing",
+    "group": 0
+  },
+  {
+    "value": "Jasmine",
+    "group": 0
+  },
+  {
+    "value": "Webpack",
+    "group": 0
+  },
+  {
+    "value": "Troubleshooting",
+    "group": 0
+  },
+  {
+    "value": "Execution Skills",
+    "group": 0
+  },
+  {
+    "value": "Facilitation",
+    "group": 0
+  },
+  {
+    "value": "Business continuity planning (BCP)",
+    "group": 0
+  },
+  {
+    "value": "Cloud Virtualization",
+    "group": 0
+  },
+  {
+    "value": "Spring Security",
+    "group": 0
+  },
+  {
+    "value": "Spring Integration",
+    "group": 0
+  },
+  {
+    "value": "Spring Data module",
+    "group": 0
+  },
+  {
+    "value": "Linux Containers (LXC)",
+    "group": 0
+  },
+  {
+    "value": "GraphQL",
+    "group": 0
+  },
+  {
+    "value": "Endpoint detection and response (EDR)",
+    "group": 0
+  },
+  {
+    "value": "GMP IaaS",
+    "group": 0
+  },
+  {
+    "value": "Android Debug Bridge (ADB)",
+    "group": 0
+  },
+  {
+    "value": "Checkmarx",
+    "group": 0
+  },
+  {
+    "value": "Cloud Infrastructure",
+    "group": 0
+  },
+  {
+    "value": "Database model",
+    "group": 0
+  },
+  {
+    "value": "DevSecOps",
+    "group": 0
+  },
+  {
+    "value": "Hyperscaler",
+    "group": 0
+  },
+  {
+    "value": "Transport Layer Security (TLS)",
+    "group": 0
+  },
+  {
+    "value": "Clojure",
+    "group": 0
+  },
+  {
+    "value": "Learn Organizational Management (OM)",
+    "group": 0
+  },
+  {
+    "value": "Express.js",
+    "group": 0
+  },
+  {
+    "value": "Session Management",
+    "group": 0
+  },
+  {
+    "value": "Ember.js",
+    "group": 0
+  },
+  {
+    "value": "Kotlin",
+    "group": 0
+  },
+  {
+    "value": "Feature Implementation",
+    "group": 0
+  },
+  {
+    "value": "Product Development Life Cycle (PDLC)",
+    "group": 0
+  },
+  {
+    "value": "Istio",
+    "group": 0
+  },
+  {
+    "value": "JCE Editor",
+    "group": 0
+  },
+  {
+    "value": "Ext JS",
+    "group": 0
+  },
+  {
+    "value": "SAP PS",
+    "group": 0
+  },
+  {
+    "value": "SAP production Planning (PP)",
+    "group": 0
+  },
+  {
+    "value": "Business process management (BPM)",
+    "group": 0
+  },
+  {
+    "value": "Windows Presentation Foundation (WPF)",
+    "group": 0
+  },
+  {
+    "value": "GIAC Certified Intrusion Analyst (GCIA)",
+    "group": 0
+  },
+  {
+    "value": "Workflow",
+    "group": 0
+  },
+  {
+    "value": "Windows Registry",
+    "group": 0
+  },
+  {
+    "value": "Static Application Security Testing (SAST)",
+    "group": 0
+  },
+  {
+    "value": "Cross-browser compatibility",
+    "group": 0
+  },
+  {
+    "value": "PowerDNS",
+    "group": 0
+  },
+  {
+    "value": "Grails",
+    "group": 0
+  },
+  {
+    "value": "FICO",
+    "group": 0
+  },
+  {
+    "value": "Cloudera",
+    "group": 0
+  },
+  {
+    "value": "Bugzilla",
+    "group": 0
+  },
+  {
+    "value": "Visual Studio Code",
+    "group": 0
+  },
+  {
+    "value": "Customer lifecycle management (CLM)",
+    "group": 0
+  },
+  {
+    "value": "Karma",
+    "group": 0
+  },
+  {
+    "value": "Test Automation Framework",
+    "group": 0
+  },
+  {
+    "value": "Server-Side Programming Languages",
+    "group": 0
+  },
+  {
+    "value": "Memory corruption",
+    "group": 0
+  },
+  {
+    "value": "Memory leak",
+    "group": 0
+  },
+  {
+    "value": "Microsoft Visual SourceSafe",
+    "group": 0
+  },
+  {
+    "value": "Database Technologies",
+    "group": 0
+  },
+  {
+    "value": "JAWS",
+    "group": 0
+  },
+  {
+    "value": "TestLink",
+    "group": 0
+  },
+  {
+    "value": "VersionOne",
+    "group": 0
+  },
+  {
+    "value": "Deadlock",
+    "group": 0
+  },
+  {
+    "value": "SAP Data Management and Landscape Transformation (DMLT)",
+    "group": 0
+  },
+  {
+    "value": "SAP Smart Forms",
+    "group": 0
+  },
+  {
+    "value": "ABAP Data Dictionary",
+    "group": 0
+  },
+  {
+    "value": "Screen programming",
+    "group": 0
+  },
+  {
+    "value": "Update Database",
+    "group": 0
+  },
+  {
+    "value": "Dojo Toolkit",
+    "group": 0
+  },
+  {
+    "value": "SAP EWM",
+    "group": 0
+  },
+  {
+    "value": "Interactive prototype",
+    "group": 0
+  },
+  {
+    "value": "Design tools",
+    "group": 0
+  },
+  {
+    "value": "OmniGraffle",
+    "group": 0
+  },
+  {
+    "value": "Adobe Fireworks",
+    "group": 0
+  },
+  {
+    "value": "Quantitative analysis",
+    "group": 0
+  },
+  {
+    "value": "Front-End App Frameworks",
+    "group": 0
+  },
+  {
+    "value": "Parallel computing",
+    "group": 0
+  },
+  {
+    "value": "Laboratory information management system (LIMS)",
+    "group": 0
+  },
+  {
+    "value": "Web Application Security ",
+    "group": 0
+  },
+  {
+    "value": "Typography",
+    "group": 0
+  },
+  {
+    "value": "Balsamiq",
+    "group": 0
+  },
+  {
+    "value": "Xcode",
+    "group": 0
+  },
+  {
+    "value": "ReactiveX",
+    "group": 0
+  },
+  {
+    "value": "SAP WM",
+    "group": 0
+  },
+  {
+    "value": "Dependency injection",
+    "group": 0
+  },
+  {
+    "value": "Java Frameworks",
+    "group": 0
+  },
+  {
+    "value": "Seam",
+    "group": 0
+  },
+  {
+    "value": "ABAP Workbench",
+    "group": 0
+  },
+  {
+    "value": "API Gateway",
+    "group": 0
+  },
+  {
+    "value": "Content Security Policy (CSP)",
+    "group": 0
+  },
+  {
+    "value": "Software development process",
+    "group": 0
+  },
+  {
+    "value": "Auto Layout",
+    "group": 0
+  },
+  {
+    "value": "Session Persistence",
+    "group": 0
+  },
+  {
+    "value": "Design review",
+    "group": 0
+  },
+  {
+    "value": "Software Development Tools",
+    "group": 0
+  },
+  {
+    "value": "CMake",
+    "group": 0
+  },
+  {
+    "value": "Task analysis",
+    "group": 0
+  },
+  {
+    "value": "Adobe Flash Player",
+    "group": 0
+  },
+  {
+    "value": "SAP EAM",
+    "group": 0
+  },
+  {
+    "value": "Computer-aided design (CAD)",
+    "group": 0
+  },
+  {
+    "value": "Apache Olingo",
+    "group": 0
+  },
+  {
+    "value": "SAP Enterprise Service-Oriented Architecture (ESOA)",
+    "group": 0
+  },
+  {
+    "value": "Document type definition (DTD)",
+    "group": 0
+  },
+  {
+    "value": "SAX (Simple API for XML)",
+    "group": 0
+  },
+  {
+    "value": "FindBugs",
+    "group": 0
+  },
+  {
+    "value": "QA automation",
+    "group": 0
+  },
+  {
+    "value": "ActionScript",
+    "group": 0
+  },
+  {
+    "value": "Test management tool",
+    "group": 0
+  },
+  {
+    "value": " Database Internals",
+    "group": 0
+  },
+  {
+    "value": "App Redesign",
+    "group": 0
+  },
+  {
+    "value": "Non-volatile memory (NVM)",
+    "group": 0
+  },
+  {
+    "value": "Computer architecture",
+    "group": 0
+  },
+  {
+    "value": "Revision Control System (RCS)",
+    "group": 0
+  },
+  {
+    "value": "Predictive maintenance",
+    "group": 0
+  },
+  {
+    "value": "Spring Cloud",
+    "group": 0
+  },
+  {
+    "value": "Web Components",
+    "group": 0
+  },
+  {
+    "value": "Model View ViewModel (MVVM)",
+    "group": 0
+  },
+  {
+    "value": "ECMAScript",
+    "group": 0
+  },
+  {
+    "value": "Server virtualization",
+    "group": 0
+  },
+  {
+    "value": "Functional specification",
+    "group": 0
+  },
+  {
+    "value": "Facebook",
+    "group": 0
+  },
+  {
+    "value": "YouTube",
+    "group": 0
+  },
+  {
+    "value": "Activiti",
+    "group": 0
+  },
+  {
+    "value": "Solace",
+    "group": 0
+  },
+  {
+    "value": "Mojos",
+    "group": 0
+  },
+  {
+    "value": "Polymer",
+    "group": 0
+  },
+  {
+    "value": "Cluster Locking",
+    "group": 0
+  },
+  {
+    "value": "Cloud Foundry BOSH",
+    "group": 0
+  },
+  {
+    "value": "Editing",
+    "group": 0
+  },
+  {
+    "value": "Bootstrap (front end framework)",
+    "group": 0
+  },
+  {
+    "value": "SAP Application Development",
+    "group": 0
+  },
+  {
+    "value": "Core Data Services (CDS)",
+    "group": 0
+  },
+  {
+    "value": "UI automation testing",
+    "group": 0
+  },
+  {
+    "value": "SAP ESF2",
+    "group": 0
+  },
+  {
+    "value": "MDRS",
+    "group": 0
+  },
+  {
+    "value": "Model-driven engineering (MDE)",
+    "group": 0
+  },
+  {
+    "value": "Agile Prototyping",
+    "group": 0
+  },
+  {
+    "value": "Scenario testing",
+    "group": 0
+  },
+  {
+    "value": "Stack",
+    "group": 0
+  },
+  {
+    "value": "Production (economics)",
+    "group": 0
+  },
+  {
+    "value": "Database Concepts",
+    "group": 0
+  },
+  {
+    "value": "TM",
+    "group": 0
+  },
+  {
+    "value": "Load testing",
+    "group": 0
+  },
+  {
+    "value": "Cloud Deployment",
+    "group": 0
+  },
+  {
+    "value": "Haskell",
+    "group": 0
+  },
+  {
+    "value": "OCaml",
+    "group": 0
+  },
+  {
+    "value": "MapR",
+    "group": 0
+  },
+  {
+    "value": "RPM Package Manager (RPM)",
+    "group": 0
+  },
+  {
+    "value": "Content as a service (CaaS)",
+    "group": 0
+  },
+  {
+    "value": "Pattern recognition",
+    "group": 0
+  },
+  {
+    "value": "Java Authentication and Authorization Service (JAAS)",
+    "group": 0
+  },
+  {
+    "value": "Drupal",
+    "group": 0
+  },
+  {
+    "value": "ABAP CDS Views",
+    "group": 0
+  },
+  {
+    "value": "Technical writing",
+    "group": 0
+  },
+  {
+    "value": "Documentation tools",
+    "group": 0
+  },
+  {
+    "value": "Test design",
+    "group": 0
+  },
+  {
+    "value": "Multi-core processor",
+    "group": 0
+  },
+  {
+    "value": "XHTML",
+    "group": 0
+  },
+  {
+    "value": "UI Components",
+    "group": 0
+  },
+  {
+    "value": "Statistical hypothesis testing",
+    "group": 0
+  },
+  {
+    "value": "distributions",
+    "group": 0
+  },
+  {
+    "value": "Fiddler",
+    "group": 0
+  },
+  {
+    "value": "Lua",
+    "group": 0
+  },
+  {
+    "value": "Heroku",
+    "group": 0
+  },
+  {
+    "value": "Robot Framework",
+    "group": 0
+  },
+  {
+    "value": "Information Development",
+    "group": 0
+  },
+  {
+    "value": "Multithreaded Server",
+    "group": 0
+  },
+  {
+    "value": "Cloud Products",
+    "group": 0
+  },
+  {
+    "value": "People Management",
+    "group": 0
+  },
+  {
+    "value": "ebXML",
+    "group": 0
+  },
+  {
+    "value": "TestPartner",
+    "group": 0
+  },
+  {
+    "value": "AS4",
+    "group": 0
+  },
+  {
+    "value": "Software Development Life Cycle (SDLC)",
+    "group": 0
+  },
+  {
+    "value": "Hystrix",
+    "group": 0
+  },
+  {
+    "value": "Mocha",
+    "group": 0
+  },
+  {
+    "value": "SQL Server Management",
+    "group": 0
+  },
+  {
+    "value": "Technical communication",
+    "group": 0
+  },
+  {
+    "value": "Program management",
+    "group": 0
+  },
+  {
+    "value": "Windows Communication Foundation (WCF)",
+    "group": 0
+  },
+  {
+    "value": "Hosted services",
+    "group": 0
+  },
+  {
+    "value": "Programmable logic device (PLD)",
+    "group": 0
+  },
+  {
+    "value": "GPU",
+    "group": 0
+  },
+  {
+    "value": "NUMA (non-uniform memory access)",
+    "group": 0
+  },
+  {
+    "value": "SAP Crystal Reports",
+    "group": 0
+  },
+  {
+    "value": "Systems architecture",
+    "group": 0
+  },
+  {
+    "value": "Data storage",
+    "group": 0
+  },
+  {
+    "value": "Container-based virtualization",
+    "group": 0
+  },
+  {
+    "value": "Customization Framework",
+    "group": 0
+  },
+  {
+    "value": "User assistance",
+    "group": 0
+  },
+  {
+    "value": "Web Services Testing",
+    "group": 0
+  },
+  {
+    "value": "xUnit.net",
+    "group": 0
+  },
+  {
+    "value": "Customer interaction management",
+    "group": 0
+  },
+  {
+    "value": "Application Design",
+    "group": 0
+  },
+  {
+    "value": "OAuth 2.0",
+    "group": 0
+  },
+  {
+    "value": "SAP Package QL",
+    "group": 0
+  },
+  {
+    "value": "Quality Focus",
+    "group": 0
+  },
+  {
+    "value": "Challenge complexity",
+    "group": 0
+  },
+  {
+    "value": "Graph database",
+    "group": 0
+  },
+  {
+    "value": " Distributed Query Processing",
+    "group": 0
+  },
+  {
+    "value": "White-box testing",
+    "group": 0
+  },
+  {
+    "value": "Babel",
+    "group": 0
+  },
+  {
+    "value": "Apache Camel",
+    "group": 0
+  },
+  {
+    "value": "Amazon Redshift",
+    "group": 0
+  },
+  {
+    "value": "Server-side web frameworks",
+    "group": 0
+  },
+  {
+    "value": "Hosting",
+    "group": 0
+  },
+  {
+    "value": "AWS Lambda",
+    "group": 0
+  },
+  {
+    "value": "SAP Gateway",
+    "group": 0
+  },
+  {
+    "value": "RALLY",
+    "group": 0
+  },
+  {
+    "value": "Security testing",
+    "group": 0
+  },
+  {
+    "value": "Behavior Driven Development (BDD)",
+    "group": 0
+  },
+  {
+    "value": "Machine translation",
+    "group": 0
+  },
+  {
+    "value": "Erlang",
+    "group": 0
+  },
+  {
+    "value": "SoftLayer",
+    "group": 0
+  },
+  {
+    "value": "JSON resource design",
+    "group": 0
+  },
+  {
+    "value": "Web application testing",
+    "group": 0
+  },
+  {
+    "value": "The Logical Database ADA SAP",
+    "group": 0
+  },
+  {
+    "value": "Web Content Accessibility Guidelines (WCAG)",
+    "group": 0
+  },
+  {
+    "value": "Event-driven architecture (EDA)",
+    "group": 0
+  },
+  {
+    "value": "Portworx",
+    "group": 0
+  },
+  {
+    "value": "Redis",
+    "group": 0
+  },
+  {
+    "value": "SAP HANA SQL",
+    "group": 0
+  },
+  {
+    "value": "MEAN",
+    "group": 0
+  },
+  {
+    "value": "Connectivity",
+    "group": 0
+  },
+  {
+    "value": "SAP EPPM",
+    "group": 0
+  },
+  {
+    "value": "Production Planning Process Industries (PP-PI)",
+    "group": 0
+  },
+  {
+    "value": "Model-driven architecture (MDA)",
+    "group": 0
+  },
+  {
+    "value": "Iterative Waterfall",
+    "group": 0
+  },
+  {
+    "value": "Evident.io",
+    "group": 0
+  },
+  {
+    "value": "RightScale",
+    "group": 0
+  },
+  {
+    "value": "VictorOps",
+    "group": 0
+  },
+  {
+    "value": "Turbonomic",
+    "group": 0
+  },
+  {
+    "value": "JSON Web Token (JWT)",
+    "group": 0
+  },
+  {
+    "value": "Business process orientation",
+    "group": 0
+  },
+  {
+    "value": "SAP BDC",
+    "group": 0
+  },
+  {
+    "value": "SAP PEO",
+    "group": 0
+  },
+  {
+    "value": "SAP Digital Manufacturing Cloud (SAP DMC)",
+    "group": 0
+  },
+  {
+    "value": "Leadership Skills",
+    "group": 0
+  },
+  {
+    "value": "Identity management",
+    "group": 0
+  },
+  {
+    "value": "Module Testing",
+    "group": 0
+  },
+  {
+    "value": "CHECKMAN SAP",
+    "group": 0
+  },
+  {
+    "value": "Envoy Proxy",
+    "group": 0
+  },
+  {
+    "value": "SAP MII",
+    "group": 0
+  },
+  {
+    "value": "API testing",
+    "group": 0
+  },
+  {
+    "value": "Key management",
+    "group": 0
+  },
+  {
+    "value": "Flux",
+    "group": 0
+  },
+  {
+    "value": "Amazon ElastiCache",
+    "group": 0
+  },
+  {
+    "value": "Serverless computing",
+    "group": 0
+  },
+  {
+    "value": "Java Backend Frameworks",
+    "group": 0
+  },
+  {
+    "value": "Modem",
+    "group": 0
+  },
+  {
+    "value": "Stress testing",
+    "group": 0
+  },
+  {
+    "value": "Git Repository",
+    "group": 0
+  },
+  {
+    "value": "Push technology",
+    "group": 0
+  },
+  {
+    "value": "aha",
+    "group": 0
+  },
+  {
+    "value": "SSP",
+    "group": 0
+  },
+  {
+    "value": "Zypper",
+    "group": 0
+  },
+  {
+    "value": "SAP SuccessFactors mobile",
+    "group": 0
+  },
+  {
+    "value": "Social media",
+    "group": 0
+  },
+  {
+    "value": "Database tuning",
+    "group": 0
+  },
+  {
+    "value": "Espresso",
+    "group": 0
+  },
+  {
+    "value": "Speech recognition",
+    "group": 0
+  },
+  {
+    "value": "XCUI ",
+    "group": 0
+  },
+  {
+    "value": "MyBatis",
+    "group": 0
+  },
+  {
+    "value": "Backend technologies",
+    "group": 0
+  },
+  {
+    "value": "Backend Frameworks",
+    "group": 0
+  },
+  {
+    "value": "Cloud native computing",
+    "group": 0
+  },
+  {
+    "value": "AWS CloudHSM",
+    "group": 0
+  },
+  {
+    "value": "Web Cryptography API",
+    "group": 0
+  },
+  {
+    "value": "Core Data",
+    "group": 0
+  },
+  {
+    "value": "Neural machine translation",
+    "group": 0
+  },
+  {
+    "value": "Object-Oriented ABAP (OOABAP)",
+    "group": 0
+  },
+  {
+    "value": "Processing",
+    "group": 0
+  },
+  {
+    "value": "JavaScript Components",
+    "group": 0
+  },
+  {
+    "value": "New product development (NPD)",
+    "group": 0
+  },
+  {
+    "value": "SAP applications",
+    "group": 0
+  },
+  {
+    "value": "Helm Kubernetes",
+    "group": 0
+  },
+  {
+    "value": "Solution management",
+    "group": 0
+  },
+  {
+    "value": "Distributed Version Control (DVCS)",
+    "group": 0
+  },
+  {
+    "value": "Enterprise software",
+    "group": 0
+  },
+  {
+    "value": "Coding Skills",
+    "group": 0
+  },
+  {
+    "value": "Documentation Skills",
+    "group": 0
+  },
+  {
+    "value": "Cloud-oriented Architecture (COA)",
+    "group": 0
+  },
+  {
+    "value": "Business acumen",
+    "group": 0
+  },
+  {
+    "value": "Software engineering",
+    "group": 0
+  },
+  {
+    "value": "Computer Troubleshooting Techniques",
+    "group": 0
+  },
+  {
+    "value": "Product management",
+    "group": 0
+  },
+  {
+    "value": "Design Principles",
+    "group": 0
+  },
+  {
+    "value": "Set analysis",
+    "group": 0
+  },
+  {
+    "value": "SAP ABAP",
+    "group": 0
+  },
+  {
+    "value": "Product life-cycle management",
+    "group": 0
+  },
+  {
+    "value": "EDIFACT",
+    "group": 0
+  },
+  {
+    "value": "Design Skills",
+    "group": 0
+  },
+  {
+    "value": "Ownership",
+    "group": 0
+  },
+  {
+    "value": "Production planning",
+    "group": 0
+  },
+  {
+    "value": "Application software",
+    "group": 0
+  },
+  {
+    "value": "SAP SoH",
+    "group": 0
+  },
+  {
+    "value": "Brainstorming",
+    "group": 0
+  },
+  {
+    "value": "Signal processing",
+    "group": 0
+  },
+  {
+    "value": "Fast iterations",
+    "group": 0
+  },
+  {
+    "value": "Business model",
+    "group": 0
+  },
+  {
+    "value": "Task Abstraction",
+    "group": 0
+  },
+  {
+    "value": "Business requirements",
+    "group": 0
+  },
+  {
+    "value": "Tag management",
+    "group": 0
+  },
+  {
+    "value": "Modular Frontend framework",
+    "group": 0
+  },
+  {
+    "value": "ITIL Certifications",
+    "group": 0
+  },
+  {
+    "value": "Results-Focused",
+    "group": 0
+  },
+  {
+    "value": "Product Manager",
+    "group": 0
+  },
+  {
+    "value": "Cloud Framework",
+    "group": 0
+  },
+  {
+    "value": "Business Problem-Solving",
+    "group": 0
+  },
+  {
+    "value": "IT Operations",
+    "group": 0
+  },
+  {
+    "value": "Data mart",
+    "group": 0
+  }
+]

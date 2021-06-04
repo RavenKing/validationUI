@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "name": "Apache Spark",
+      "group": 0
+    },
+    {
+      "name": "Apache Hadoop",
+      "group": 0
+    },
+    {
+      "name": "Big data",
+      "group": 0
+    },
+    {
+      "name": "Apache HBase",
+      "group": 0
+    },
+    {
+      "name": "Apache Pig",
+      "group": 0
+    },
+    {
+      "name": "Scala",
+      "group": 0
+    },
+    {
+      "name": "Apache Cassandra",
+      "group": 0
+    },
+    {
+      "name": "MapReduce",
+      "group": 0
+    },
+    {
+      "name": "Apache Kafka",
+      "group": 0
+    },
+    {
+      "name": "Apache Hive",
+      "group": 0
+    },
+    {
+      "name": "Hadoop Distributed File System (HDFS)",
+      "group": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Apache Spark",
+      "target": "Apache Hadoop"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Big data"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache HBase"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Pig"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Scala"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Cassandra"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "MapReduce"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Kafka"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Hive"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Hadoop Distributed File System (HDFS)"
+    }
+  ]
+}

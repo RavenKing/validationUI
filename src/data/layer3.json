@@ -1,0 +1,334 @@
+{
+  "nodes": [
+    {
+      "name": "Apache Spark",
+      "group": 3
+    },
+    {
+      "name": "Apache Hadoop",
+      "group": 2
+    },
+    {
+      "name": "Big data",
+      "group": 2
+    },
+    {
+      "name": "Apache HBase",
+      "group": 0
+    },
+    {
+      "name": "Apache Pig",
+      "group": 0
+    },
+    {
+      "name": "Scala",
+      "group": 0
+    },
+    {
+      "name": "Apache Cassandra",
+      "group": 0
+    },
+    {
+      "name": "MapReduce",
+      "group": 0
+    },
+    {
+      "name": "Apache Kafka",
+      "group": 0
+    },
+    {
+      "name": "Apache Hive",
+      "group": 0
+    },
+    {
+      "name": "Hadoop Distributed File System (HDFS)",
+      "group": 0
+    },
+    {
+      "name": "Machine learning",
+      "group": 0
+    },
+    {
+      "name": "Natural language processing (NLP)",
+      "group": 0
+    },
+    {
+      "name": "Computer Programming",
+      "group": 0
+    },
+    {
+      "name": "R",
+      "group": 0
+    },
+    {
+      "name": "Statistics",
+      "group": 0
+    },
+    {
+      "name": "Mining",
+      "group": 0
+    },
+    {
+      "name": "Artificial intelligence (AI)",
+      "group": 0
+    },
+    {
+      "name": "NoSQL",
+      "group": 0
+    },
+    {
+      "name": "MATLAB",
+      "group": 0
+    },
+    {
+      "name": "Mathematical model",
+      "group": 0
+    },
+    {
+      "name": "Time series",
+      "group": 0
+    },
+    {
+      "name": "SAS",
+      "group": 0
+    },
+    {
+      "name": "Predictive modelling",
+      "group": 0
+    },
+    {
+      "name": "Classification",
+      "group": 0
+    },
+    {
+      "name": "SPSS",
+      "group": 0
+    },
+    {
+      "name": "MongoDB",
+      "group": 0
+    },
+    {
+      "name": "PostgreSQL",
+      "group": 0
+    },
+    {
+      "name": "Messaging Protocols",
+      "group": 0
+    },
+    {
+      "name": "Scalability",
+      "group": 0
+    },
+    {
+      "name": "Docker",
+      "group": 0
+    },
+    {
+      "name": "RDBMS (Relational Database Management System)",
+      "group": 0
+    },
+    {
+      "name": "Kubernetes",
+      "group": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Apache Spark",
+      "target": "Apache Hadoop"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Big data"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache HBase"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Pig"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Scala"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Cassandra"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "MapReduce"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Kafka"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Apache Hive"
+    },
+    {
+      "source": "Apache Spark",
+      "target": "Hadoop Distributed File System (HDFS)"
+    },
+    {
+      "source": "Big data",
+      "target": "Machine learning"
+    },
+    {
+      "source": "Big data",
+      "target": "Natural language processing (NLP)"
+    },
+    {
+      "source": "Big data",
+      "target": "Computer Programming"
+    },
+    {
+      "source": "Big data",
+      "target": "Apache Hadoop"
+    },
+    {
+      "source": "Big data",
+      "target": "R"
+    },
+    {
+      "source": "Big data",
+      "target": "Statistics"
+    },
+    {
+      "source": "Big data",
+      "target": "Apache Cassandra"
+    },
+    {
+      "source": "Big data",
+      "target": "Mining"
+    },
+    {
+      "source": "Big data",
+      "target": "Artificial intelligence (AI)"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache Spark"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache Kafka"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache HBase"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache Cassandra"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache Hive"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Hadoop Distributed File System (HDFS)"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "NoSQL"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Big data"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "MapReduce"
+    },
+    {
+      "source": "Apache Hadoop",
+      "target": "Apache Pig"
+    },
+    {
+      "source": "R",
+      "target": "Statistics"
+    },
+    {
+      "source": "R",
+      "target": "Mining"
+    },
+    {
+      "source": "R",
+      "target": "MATLAB"
+    },
+    {
+      "source": "R",
+      "target": "Mathematical model"
+    },
+    {
+      "source": "R",
+      "target": "Time series"
+    },
+    {
+      "source": "R",
+      "target": "SAS"
+    },
+    {
+      "source": "R",
+      "target": "Predictive modelling"
+    },
+    {
+      "source": "R",
+      "target": "Classification"
+    },
+    {
+      "source": "R",
+      "target": "Machine learning"
+    },
+    {
+      "source": "R",
+      "target": "SPSS"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Apache Kafka"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Apache Cassandra"
+    },
+    {
+      "source": "NoSQL",
+      "target": "MongoDB"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Apache Hadoop"
+    },
+    {
+      "source": "NoSQL",
+      "target": "PostgreSQL"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Messaging Protocols"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Scalability"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Docker"
+    },
+    {
+      "source": "NoSQL",
+      "target": "RDBMS (Relational Database Management System)"
+    },
+    {
+      "source": "NoSQL",
+      "target": "Kubernetes"
+    }
+  ]
+}
