@@ -3,8 +3,104 @@ import ForceGraphGenerator from "./ForceGraphGenerator";
 import styles from "./forceGraph.module.css";
 import JsonData from "../data/db.json";
 
+import { Dialog, Wizard,WizardStep,TextArea,Button,MessageStrip,Switch  } from "@ui5/webcomponents-react";
+import { createPortal } from "react-dom";
+
+// const DialogComponent = () => {
+//   const dialogRef = useRef(null);
+//   const onButtonClick = () => {
+//     //console.log(targetSkill);
+//     dialogRef.current.open();
+//   };
+//   return (
+//     <>
+//       <Button onClick={onButtonClick}>Open Dialog</Button>
+//       {createPortal(<Dialog ref={dialogRef} />, document.body)}
+//     </>
+//   );
+// };
 
 const ForceGraph = ({ skill }) => {
+  const dialogRef = useRef(null);
+  const [targetSkill,setTargetSkill] = useState("")
+  const [sourceSkill,setSourceSkill] = useState({})
+  const openDialog = (e) => {
+    //console.log(targetSkill);
+    console.log(e);
+    setTargetSkill(e.name);
+    console.log(skillShow);
+    skillShow.links.map((source)=>{
+      if(source.target==e.name)
+      {
+        setSourceSkill(source) 
+      }
+    })
+    dialogRef.current.open();
+  };
+  const ComboBoxComponent=({})=>{
+    return (
+    <div>
+   <Wizard
+    icon="hint"
+  className=""
+  onSelectionChange={function noRefCheck(){}}
+  slot=""
+  style={{
+    height: '400px',
+    width:'600px'
+  }}
+  tooltip=""
+>
+  <WizardStep
+    heading= {sourceSkill.source}
+    icon="hint"
+    disabled
+  >
+  </WizardStep>
+  <WizardStep
+    heading= {targetSkill}
+    icon="hint"
+    selected
+  >
+    <MessageStrip
+  className=""
+  onClose={function noRefCheck(){}}
+  slot=""
+  style={{}}
+  tooltip=""
+>
+  The similarity between {sourceSkill.source} and {sourceSkill.target} is {parseFloat(sourceSkill.similarity).toFixed(2)}!
+  Agree or Deny the relationship will help us improve our tool.
+</MessageStrip>
+Are they Relavent?<Switch
+  className=""
+  onChange={function noRefCheck(){}}
+  slot=""
+  style={{}}
+  textOff=""
+  textOn=""
+  tooltip=""
+/>
+<br/>
+
+Comments：
+
+     <TextArea
+  className=""
+  onChange={function noRefCheck(){}}
+  onInput={function noRefCheck(){}}
+  slot=""
+  style={{}}
+  tooltip=""
+/>
+<Button style={{marginTop:"10px"}}> submit </Button>
+  </WizardStep>
+  </Wizard>
+
+  </div>)
+   
+  };
+
   const containerRef = useRef(null);
   const [userNodes, setuserNodes] = useState([]);
   const [focussedSkills, setfocussedSkills] = useState(new Set());
@@ -179,7 +275,8 @@ const ForceGraph = ({ skill }) => {
         skillShow.links,
         skillShow.nodes,
         nodeHoverTooltip,
-        userNodesClicked
+        userNodesClicked,
+        openDialog
       );
       destroyFn = destroy;
     }
@@ -187,7 +284,11 @@ const ForceGraph = ({ skill }) => {
     return destroyFn;
   }, [skillShow]);
 
-  return <div ref={containerRef} className={styles.container} id="forceGraph"/>;
+  return <><div ref={containerRef} className={styles.container} id="forceGraph"/>
+      {createPortal(<Dialog ref={dialogRef} >
+      <ComboBoxComponent />
+      </Dialog>, document.body)}
+  </>;
 };
 
 export default ForceGraph;

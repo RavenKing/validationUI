@@ -1,13 +1,16 @@
 import * as d3 from "d3";
 import styles from "./forceGraph.module.css";
-import { createContextMenu } from "./utils";
+import {
+  createContextMenu
+} from "./utils";
 
 const ForceGraphGenerator = (
   container,
   linksData,
   nodesData,
   nodeHoverTooltip,
-  userNodeClicked
+  userNodeClicked,
+  openDialog
 ) => {
   const links = linksData.map((d) => Object.assign({}, d));
   const nodes = nodesData.map((d) => Object.assign({}, d));
@@ -24,22 +27,14 @@ const ForceGraphGenerator = (
     simulation.restart();
   });
 
-  const menuItems = [
-    {
-      title: "Feedback",
-      action: () => {
-        // TODO: add any action you want to perform
-        console.log("clicked");
-      },
-    },
-    {
-      title: "Settings",
-      action: () => {
-        // TODO: add any action you want to perform
-        console.log("clicked");
-      },
-    },
-  ];
+  const menuItems = [{
+    title: "Feedback",
+    action: function (e) {
+      openDialog(e);
+      console.log(linksData)
+      //console.log(e)
+    }
+  }];
 
   // Add the tooltip element to the graph
   const tooltip = document.querySelector("#graph-tooltip");
@@ -69,9 +64,9 @@ const ForceGraphGenerator = (
     .force(
       "link",
       d3
-        .forceLink(links)
-        .id((d) => d.name)
-        .distance((d) => 100)
+      .forceLink(links)
+      .id((d) => d.name)
+      .distance((d) => 100)
     )
     .force("charge", d3.forceManyBody().strength(-300))
     .force("x", d3.forceX())
@@ -97,6 +92,12 @@ const ForceGraphGenerator = (
     .join("line")
     .attr("stroke-width", (d) => Math.sqrt(d.value));
 
+
+  link
+    .on("click", (event) => {
+      //   console.log(event.target.innerHTML);
+      alert("what")
+    });
   const node = svg
     .append("g")
     .attr("stroke", "#fff")

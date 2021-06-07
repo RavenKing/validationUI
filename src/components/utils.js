@@ -13,7 +13,9 @@ export const menuFactory = (x, y, menuItems, data, svgId) => {
     .enter()
     .append("g")
     .attr("class", styles.menuEntry)
-    .style({ cursor: "pointer" });
+    .style({
+      cursor: "pointer"
+    });
 
   // Draw menu entries
   d3.selectAll(`.${styles.menuEntry}`)
@@ -26,9 +28,13 @@ export const menuFactory = (x, y, menuItems, data, svgId) => {
     .attr("width", 150)
     .attr("height", 30)
     .on("click", (d) => {
-      d.action(data);
+      menuItems[0].action(data)
     });
-
+  //  d3.selectAll(`.${styles.menuEntry}`)
+  //     .append("text")
+  //     .text((d) => {
+  //       return d.title;
+  //     })
   d3.selectAll(`.${styles.menuEntry}`)
     .append("text")
     .text((d) => {
@@ -41,7 +47,7 @@ export const menuFactory = (x, y, menuItems, data, svgId) => {
     .attr("dy", 20)
     .attr("dx", 45)
     .on("click", (d) => {
-      d.action(data);
+      menuItems[0].action(data)
     });
 
   // Other interactions
