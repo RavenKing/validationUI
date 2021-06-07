@@ -1,17 +1,14 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
 import JsonData from "./data/skill.json";
-import ReactSearchBox from "react-search-box";
+import "@ui5/webcomponents-fiori/dist/ShellBar.js";
 import ForceGraph from "./components/ForceGraph";
+
 // import data from './data/layer3.json'
 
 function App() {
   const [skill, searchSkill] = useState("");
-  const [showSearch, setShowSearch] = useState(false);
-    const thresholdConfig={
-      threshold:0.9,
-      distance: 1000,      
-    };
+  const onAdd=(something)=>{console.log(something)}
   const skills = [];
   JsonData.map((v) => {
     const key = Math.floor(Math.random() * 10000000 + 1);
@@ -20,29 +17,20 @@ function App() {
 
   return (
     <div className="container">
+      <ui5-shellbar
+        primary-title="Top Skills"
+       
+      >
+        <ui5-avatar slot="profile" icon="customer"></ui5-avatar>
+        <img slot="logo" src="https://sap.github.io/ui5-webcomponents/assets/images/sap-logo-svg.svg" />
+        <ui5-button icon="nav-back" slot="startButton"></ui5-button>
+      </ui5-shellbar>
       <Header
-        onAdd={() => setShowSearch(!showSearch)}
-        showSearch={showSearch}
+      skills={skills}
+        searchSkill={searchSkill}
+        skill={skill}
       />
-      {showSearch && (
-        <div style={{ marginBottom: "25px" }}>
-          {/* search box can be improved using Levenstein distance */}
-          <ReactSearchBox
-            placeholder="Enter skill name..."
-            data={skills}
-            // fuseConfigs={thresholdConfig}
-            onSelect={(record) => searchSkill(record.value)}
-            // onFocus={() => {
-            //   console.log("This function is called when is focussed");
-            // }}
-            // onChange={(value) => console.log(value)}
-            fuseConfigs={{
-              threshold: 0.1,
-            }}
-          />
-        </div>
-      )}
-
+     
       {/* <React.Fragment>
         <ForceGraph linksData={data.links} nodesData={data.nodes} nodeHoverTooltip={nodeHoverTooltip} />
       </React.Fragment> */}

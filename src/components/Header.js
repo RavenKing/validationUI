@@ -1,17 +1,46 @@
 import PropTypes from "prop-types";
-import Button from "./Button";
+// import Button from "./Button";
+import { useRef } from "react";
+import ReactSearchBox from "react-search-box";
+import { Dialog, Button } from "@ui5/webcomponents-react";
+import { createPortal } from "react-dom";
+import JsonData from "../data/db.json";
 
-const Header = ({ title, onAdd, showSearch }) => {
+const DialogComponent = ({ targetSkill }) => {
+  const dialogRef = useRef(null);
+  const onButtonClick = () => {
+    console.log(targetSkill);
+    dialogRef.current.open();
+  };
   return (
-    <header className="header">
-      {/* <h1 style = {headingStyle}>{title}</h1> */}
-      <h1>{title}</h1>
-      <Button
-        color={showSearch ? "Orange" : "green"}
-        text={showSearch ? "End Search" : "Search"}
-        onClick={onAdd}
-      />
-    </header>
+    <>
+      <Button onClick={onButtonClick}>Open Dialog</Button>
+      {createPortal(<Dialog ref={dialogRef} />, document.body)}
+    </>
+  );
+};
+
+const Header = ({ skills, skill, searchSkill }) => {
+  return (
+    <>
+      <header className="header">
+        <div style={{ marginTop: "8px", width: "80%" }}>
+          {/* search box can be improved using Levenstein distance */}
+          <ReactSearchBox
+            placeholder="Enter skill name..."
+            data={skills}
+            onSelect={(record) => {
+              searchSkill(record.value);
+            }}
+            fuseConfigs={{
+              //fuzzy search
+              threshold: 0.1,
+            }}
+          />
+        </div>{" "}
+        <DialogComponent targetSkill={skill}></DialogComponent>
+      </header>
+    </>
   );
 };
 

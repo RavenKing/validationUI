@@ -1,6 +1,8 @@
 import React, { useRef, useEffect, useState, useCallback } from "react";
 import ForceGraphGenerator from "./ForceGraphGenerator";
 import styles from "./forceGraph.module.css";
+import JsonData from "../data/db.json";
+
 
 const ForceGraph = ({ skill }) => {
   const containerRef = useRef(null);
@@ -22,11 +24,12 @@ const ForceGraph = ({ skill }) => {
   }, []);
 
   const fetchSkills = async () => {
-    const resNodes = await fetch(`http://localhost:5000/nodes/`);
-    const nodeData = await resNodes.json();
-    const resLinks = await fetch(`http://localhost:5000/links/`);
-    const linkData = await resLinks.json();
-    setAllData({ nodes: nodeData, links: linkData });
+    
+    const resNodes = JsonData.nodes;
+    // const nodeData = await resNodes.json();
+    const resLinks =  JsonData.links
+    // const linkData = await resLinks.json();
+    setAllData({ nodes: resNodes, links: resLinks });
     // return { nodeData, linkData };
   };
 
