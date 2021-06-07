@@ -8,7 +8,6 @@ import ForceGraph from "./components/ForceGraph";
 
 function App() {
   const [skill, searchSkill] = useState("");
-  const onAdd=(something)=>{console.log(something)}
   const skills = [];
   JsonData.map((v) => {
     const key = Math.floor(Math.random() * 10000000 + 1);

@@ -30,14 +30,14 @@ const ForceGraph = ({ skill }) => {
     setTargetSkill(e.name);
     console.log(skillShow);
     skillShow.links.map((source)=>{
-      if(source.target==e.name)
+      if(source.target===e.name)
       {
         setSourceSkill(source) 
       }
     })
     dialogRef.current.open();
   };
-  const ComboBoxComponent=({})=>{
+  const ComboBoxComponent=()=>{
     return (
     <div>
    <Wizard
